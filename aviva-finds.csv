@@ -1,0 +1,1520 @@
+name,investmentFundType,riskRating,ocfTer,fmec,additionalCharge
+Aviva Pension 7IM AAP Adventurous S6,Mixed assets,5,0.68,0.18,0.5
+Aviva Pension 7IM AAP Balanced Fund S6,Mixed assets,4,0.68,0.18,0.5
+Aviva Pension 7IM AAP Moderately Adventurous S6,Mixed assets,4,0.68,0.18,0.5
+Aviva Pension 7IM AAP Moderately Cautious S6,Mixed assets,3,0.7,0.2,0.5
+Aviva Pension abrdn Asia Pacific Equity S6,Equities,6,0.86,0.11,0.75
+Aviva Pension abrdn Diversified Growth And Income S6,Mixed assets,4,0.95,0.45,0.5
+Aviva Pension Aegon Ethical Equity S6,Equities  Ethical,6,0.62,0.02,0.6
+Aviva Pension American (CGU),Equities  Tracker,6,0,,
+Aviva Pension American (GA) S1,Equities  Tracker,6,0,,
+Aviva Pension American S12,Equities  Tracker,6,0,,
+Aviva Pension American YP (CGU),Equities  Tracker,6,0,0,0
+Aviva Pension Artemis Global Income S6,Equities,6,0.87,0.12,0.75
+Aviva Pension Artemis High Income S6,Corporate bonds  Global bonds,4,0.59,0.09,0.5
+Aviva Pension Artemis Income S6,Equities,6,0.7,0.05,0.65
+Aviva Pension Artemis SmartGARP Global Equity S6,Equities,5,0.79,0.14,0.65
+Aviva Pension Artemis Strategic Bond S6,Corporate bonds  Global bonds,3,0.49,0.09,0.4
+Aviva Pension Artemis UK Select S6,Equities,7,0.79,0.09,0.7
+Aviva Pension Artemis UK Smaller Companies S6,Equities,7,0.81,0.11,0.7
+Aviva Pension Artemis UK Special Situations S6,Equities,7,0.81,0.11,0.7
+Aviva Pension Artemis US Select S6,Equities,6,0.85,0.1,0.75
+Aviva Pension AXA Framlington American Growth S6,Equities,6,0.67,0.07,0.6
+Aviva Pension AXA Framlington Global Sustainable Managed S6,Mixed assets  Ethical,5,0.67,0.07,0.6
+Aviva Pension AXA Framlington UK Select Opportunities S13,Equities,6,0.66,0.06,0.6
+Aviva Pension AXA Framlington UK Select Opportunities S6,Equities,6,0.66,0.06,0.6
+Aviva Pension Baillie Gifford High Yield Bond S6,Corporate bonds  Global bonds,4,0.37,0.02,0.35
+Aviva Pension Baillie Gifford International S6,Equities,7,0.38,0.03,0.35
+Aviva Pension Baillie Gifford Managed S6,Mixed assets  Ethical,5,0.31,0.03,0.28
+Aviva Pension Baillie Gifford UK and Worldwide Equity S6,Equities  Ethical,6,0.34,0.04,0.3
+Aviva Pension BlackRock 50:50 Global Equity Index Tracker S13,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 50:50 Global Equity Index Tracker S2,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 50:50 Global Equity Index Tracker S3,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 50:50 Global Equity Index Tracker S6,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 50:50 Global Equity Index Tracker S7,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 60:40 Global Equity Index Tracker S2,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 60:40 Global Equity Index Tracker S3,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 60:40 Global Equity Index Tracker S6,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 70:30 Global Equity Index Tracker S2,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 70:30 Global Equity Index Tracker S3,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock 70:30 Global Equity Index Tracker S6,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock All Stocks UK Gilt Index Tracker S6,Gilts  Tracker,3,0,0,0
+Aviva Pension BlackRock Consensus S13,Mixed assets  Tracker,4,0,0,0
+Aviva Pension BlackRock Consensus S2,Mixed assets  Tracker,4,0,0,0
+Aviva Pension BlackRock Consensus S3,Mixed assets  Tracker,4,0,0,0
+Aviva Pension BlackRock Consensus S5,Mixed assets  Tracker,4,0,0,0
+Aviva Pension BlackRock Consensus S6,Mixed assets  Tracker,4,0,0,0
+Aviva Pension BlackRock Continental European S6,Equities,7,0.76,0.16,0.6
+Aviva Pension BlackRock Corporate Bond Index Tracker S2,Corporate bonds  Global bonds  Tracker,3,0,0,0
+Aviva Pension BlackRock Corporate Bond Index Tracker S3,Corporate bonds  Global bonds  Tracker,3,0,0,0
+Aviva Pension BlackRock Corporate Bond Index Tracker S6,Corporate bonds  Global bonds  Tracker,3,0,0,0
+Aviva Pension BlackRock Corporate Bond Index Tracker S7,Corporate bonds  Global bonds  Tracker,3,0,0,0
+Aviva Pension BlackRock Corporate Bond S6,Corporate bonds  Global bonds,3,0.46,0.06,0.4
+Aviva Pension BlackRock Developed World Fossil Fuel Screened Index S6,Equities  Ethical  Tracker,6,0.07,0.02,0.05
+Aviva Pension BlackRock Emerging Markets Index Tracker S6,Equities  Tracker,7,0.18,0.08,0.1
+Aviva Pension BlackRock European Dynamic S6,Equities,7,0.92,0.17,0.75
+Aviva Pension BlackRock European Equity Index Tracker S2,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock European Equity Index Tracker S3,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock European Equity Index Tracker S5,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock European Equity Index Tracker S6,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock European Equity Index Tracker S7,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock Gold & General S6,Equities  Specialist/Other,7,0.87,0.17,0.7
+Aviva Pension BlackRock Japanese Equity Index Tracker S2,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock Japanese Equity Index Tracker S3,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock Japanese Equity Index Tracker S6,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock Japanese Equity Index Tracker S7,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock Over 15 years Gilt Index Tracker S13,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 years Gilt Index Tracker S2,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 years Gilt Index Tracker S3,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 years Gilt Index Tracker S6,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 years Gilt Index Tracker S7,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 yrs Corp Bond Tracker S2,Corporate bonds  Global bonds  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 yrs Corp Bond Tracker S3,Corporate bonds  Global bonds  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 15 yrs Corp Bond Tracker S6,Corporate bonds  Global bonds  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 5 yrs Index-Lkd Gilt Tracker S2,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 5 yrs Index-Lkd Gilt Tracker S3,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Over 5 yrs Index-Lkd Gilt Tracker S6,Gilts  Tracker,5,0,0,0
+Aviva Pension BlackRock Overseas Consensus Equity S2,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock Overseas Consensus Equity S3,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock Overseas Consensus Equity S6,Equities  Tracker,5,0.02,0.02,0
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker S2,Equities  Tracker,7,0,0,0
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker S3,Equities  Tracker,7,0,0,0
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker S6,Equities  Tracker,7,0,0,0
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker S7,Equities  Tracker,7,0,0,0
+Aviva Pension BlackRock Sterling Liquidity S13,Cash/Money market,1,0.05,0,0.05
+Aviva Pension BlackRock Sterling Liquidity S6,Cash/Money market,1,0.05,0,0.05
+Aviva Pension BlackRock Systematic Multi Allocation Credit S6,Corporate bonds  Global bonds,4,0.29,0.09,0.2
+Aviva Pension BlackRock UK Equity Index Tracker S13,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock UK Equity Index Tracker S2,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock UK Equity Index Tracker S3,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock UK Equity Index Tracker S6,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock UK Equity Index Tracker S7,Equities  Tracker,5,0,0,0
+Aviva Pension BlackRock UK Gilts Up to 5 Years Index Tracker S6,Gilts,2,0.01,0,0.01
+Aviva Pension BlackRock UK S2,Equities,6,0.6,0,0.6
+Aviva Pension BlackRock UK S3,Equities,6,0.6,0,0.6
+Aviva Pension BlackRock UK S5,Equities,6,0.55,0,0.55
+Aviva Pension BlackRock UK S6,Equities,6,0.75,0.15,0.6
+Aviva Pension BlackRock UK Smaller Cos S6,Equities,7,0.75,0.15,0.6
+Aviva Pension BlackRock UK Special Situations S6,Equities,6,0.75,0.15,0.6
+Aviva Pension BlackRock US Dynamic S6,Equities,6,0.74,0.14,0.6
+Aviva Pension BlackRock US Equity Index Tracker S2,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock US Equity Index Tracker S3,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock US Equity Index Tracker S5,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock US Equity Index Tracker S6,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock US Equity Index Tracker S7,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock World (ex-UK) Equity Index S6,Equities  Tracker,6,0,0,0
+Aviva Pension BlackRock World ESG Insights Equity S6,Equities  Ethical,6,0.08,0.03,0.05
+Aviva Pension Blended Portfolio 2 S6,Mixed assets  Specialist/Other,3,0.1,0,0.1
+Aviva Pension Blended Portfolio 3 S6,Mixed assets  Specialist/Other,3,0.1,0,0.1
+Aviva Pension Blended Portfolio 4 S6,Mixed assets  Specialist/Other,4,0.1,0,0.1
+Aviva Pension Blended Portfolio 5 S6,Mixed assets  Specialist/Other,4,0.1,0,0.1
+Aviva Pension Blended Portfolio 6 S6,Mixed assets  Specialist/Other,4,0.1,0,0.1
+Aviva Pension Blended Portfolio 7 S6,Mixed assets  Specialist/Other,5,0.1,0,0.1
+Aviva Pension BNY Mellon Global Income S13,Equities,5,0.81,0.11,0.7
+Aviva Pension BNY Mellon Global Income S6,Equities,5,0.81,0.11,0.7
+Aviva Pension BNY Mellon International Bond S2,Global bonds,3,0.35,0,0.35
+Aviva Pension BNY Mellon International Bond S3,Global bonds,3,0.35,0,0.35
+Aviva Pension BNY Mellon International Bond S5,Global bonds,3,0.35,0,0.35
+Aviva Pension BNY Mellon International Bond S6,Global bonds,3,0.49,0.14,0.35
+Aviva Pension BNY Mellon Long-Term Global Equity S6,Equities,5,0.79,0.04,0.75
+Aviva Pension BNY Mellon Multi-Asset Balanced S6,Mixed assets,4,0.81,0.11,0.7
+Aviva Pension BNY Mellon Multi-Asset Growth S2,Mixed assets,5,0.35,0,0.35
+Aviva Pension BNY Mellon Multi-Asset Growth S3,Mixed assets,5,0.35,0,0.35
+Aviva Pension BNY Mellon Multi-Asset Growth S5,Mixed assets,5,0.35,0,0.35
+Aviva Pension BNY Mellon Multi-Asset Growth S6,Mixed assets,5,0.46,0.11,0.35
+Aviva Pension BNY Mellon Real Return S6,Mixed assets  Specialist/Other,4,1.01,0.26,0.75
+Aviva Pension Climate Transition Global Credit S6,Corporate bonds  Global bonds  Ethical,3,0.5,0.1,0.4
+Aviva Pension Climate Transition Global Equity S6,Equities  Ethical,6,0.85,0,0.85
+Aviva Pension Corporate Bond S13,Corporate bonds  Global bonds,3,0.02,0.02,0
+Aviva Pension Corporate Bond S2,Corporate bonds  Global bonds,3,0,0,0
+Aviva Pension Corporate Bond S3,Corporate bonds  Global bonds,3,0,0,0
+Aviva Pension Corporate Bond S6,Corporate bonds  Global bonds,3,0.02,0.02,0
+Aviva Pension CT European Select S6,Equities,6,0.85,0.1,0.75
+Aviva Pension CT Global Select S6,Equities,5,0.83,0.08,0.75
+Aviva Pension CT Responsible Global Equity S13,Equities  Ethical,6,0.54,0.06,0.48
+Aviva Pension CT Responsible Global Equity S6,Equities  Ethical,6,0.59,0.06,0.53
+Aviva Pension CT Responsible UK Equity Growth S6,Equities  Ethical,6,0.77,0.07,0.7
+Aviva Pension CT UK Equity Income S6,Equities,6,0.84,0.09,0.75
+Aviva Pension Deposit & Treasury 1 S12 and 9 S12,Cash/Money market,1,0,,
+Aviva Pension Deposit & Treasury 2 S12,Cash/Money market,1,0,,
+Aviva Pension Deposit & Treasury 3 S12,Cash/Money market,1,0,,
+Aviva Pension Deposit & Treasury S12,Cash/Money market,1,0,,
+Aviva Pension Deposit (CGU),Cash/Money market,1,0,,
+Aviva Pension Deposit (CU),Cash/Money market,1,0,,
+Aviva Pension Deposit (GA) S1,Cash/Money market,1,0,,
+Aviva Pension Deposit (GA) S2,Cash/Money market,1,0,,
+Aviva Pension Deposit (NU),Cash/Money market,1,0,,
+Aviva Pension Deposit (NU) S3,Cash/Money market,1,0,0,0
+Aviva Pension Deposit (PM),Cash/Money market,1,0,,
+Aviva Pension Deposit Initial (PM),Cash/Money market,1,0,,
+Aviva Pension Deposit S1,Cash/Money market,1,0,,
+Aviva Pension Deposit S13,Cash/Money market,1,0,0,0
+Aviva Pension Deposit S2,Cash/Money market,1,0,0,0
+Aviva Pension Deposit S3,Cash/Money market,1,0,0,0
+Aviva Pension Deposit S4,Cash/Money market,1,0,,
+Aviva Pension Deposit S6,Cash/Money market,1,0,0,0
+Aviva Pension Deposit TESCO S10,Cash/Money market,1,0,,
+Aviva Pension Deposit YP (CGU),Cash/Money market,1,0,0,0
+Aviva Pension Diversified Assets Fund 1 S2,Mixed assets,2,0,0,0
+Aviva Pension Diversified Assets Fund 1 S3,Mixed assets,2,0,0,0
+Aviva Pension Diversified Assets Fund 1 S4,Mixed assets,2,0,,
+Aviva Pension Diversified Assets Fund 1 S6,Mixed assets,2,0,0,0
+Aviva Pension Diversified Assets Fund 2 S2,Mixed assets,2,0,0,0
+Aviva Pension Diversified Assets Fund 2 S3,Mixed assets,2,0,0,0
+Aviva Pension Diversified Assets Fund 2 S4,Mixed assets,2,0,,
+Aviva Pension Diversified Assets Fund 2 S6,Mixed assets,2,0,0,0
+Aviva Pension Diversified Assets Fund 3 S2,Mixed assets,3,0,0,0
+Aviva Pension Diversified Assets Fund 3 S3,Mixed assets,3,0,0,0
+Aviva Pension Diversified Assets Fund 3 S4,Mixed assets,3,0,,
+Aviva Pension Diversified Assets Fund 3 S6,Mixed assets,3,0,0,0
+Aviva Pension Diversified Assets Fund 4 S2,Mixed assets,4,0,0,0
+Aviva Pension Diversified Assets Fund 4 S3,Mixed assets,4,0,0,0
+Aviva Pension Diversified Assets Fund 4 S4,Mixed assets,4,0,,
+Aviva Pension Diversified Assets Fund 4 S6,Mixed assets,4,0,0,0
+Aviva Pension Diversified Assets Fund 5 S2,Mixed assets,5,0,0,0
+Aviva Pension Diversified Assets Fund 5 S3,Mixed assets,5,0,0,0
+Aviva Pension Diversified Assets Fund 5 S4,Mixed assets,5,0,,
+Aviva Pension Diversified Assets Fund 5 S6,Mixed assets,5,0,0,0
+Aviva Pension European Equity (CGU),Equities,6,0,,
+Aviva Pension European Equity (GA) S1,Equities,6,0,,
+Aviva Pension European Equity (NU),Equities,6,0,,
+Aviva Pension European Equity (NU) S3,Equities,6,0,0,0
+Aviva Pension European Equity S1,Equities,6,0,,
+Aviva Pension European Equity S12,Equities,6,0,,
+Aviva Pension European Equity S2,Equities,6,0,0,0
+Aviva Pension European Equity S3,Equities,6,0,0,0
+Aviva Pension European Equity S4,Equities,6,0,,
+Aviva Pension European Equity S6,Equities,6,0.05,0.05,0
+Aviva Pension European Equity YP (CGU),Equities,6,0,0,0
+Aviva Pension Far East S12,Equities,7,0,,
+Aviva Pension Fidelity Asia S6,Equities,7,0.93,0.18,0.75
+Aviva Pension Fidelity Emerging Markets S6,Equities,7,0.95,0.2,0.75
+Aviva Pension Fidelity European S2,Equities,6,0.25,0,0.25
+Aviva Pension Fidelity European S3,Equities,6,0.25,0,0.25
+Aviva Pension Fidelity European S5,Equities,6,0.07,0,0.07
+Aviva Pension Fidelity European S6,Equities,6,0.24,0.17,0.07
+Aviva Pension Fidelity Japan S2,Equities,6,0.75,0,0.75
+Aviva Pension Fidelity Japan S3,Equities,6,0.75,0,0.75
+Aviva Pension Fidelity Japan S5,Equities,6,0.75,0,0.75
+Aviva Pension Fidelity Japan S6,Equities,6,0.8,0.05,0.75
+Aviva Pension Fidelity Japan S7,Equities,6,0.8,0.05,0.75
+Aviva Pension Fidelity Sustainable European Equity S6,Equities  Ethical,6,0.7,0.1,0.6
+Aviva Pension Fidelity Sustainable MoneyBuilder Income S2,Corporate bonds  Global bonds  Ethical,3,0.45,0,0.45
+Aviva Pension Fidelity Sustainable MoneyBuilder Income S3,Corporate bonds  Global bonds  Ethical,3,0.45,0,0.45
+Aviva Pension Fidelity Sustainable MoneyBuilder Income S5,Corporate bonds  Global bonds  Ethical,3,0.45,0,0.45
+Aviva Pension Fidelity Sustainable MoneyBuilder Income S6,Corporate bonds  Global bonds  Ethical,3,0.61,0.16,0.45
+Aviva Pension Fidelity UK Select S6,Equities,6,0.8,0.05,0.75
+Aviva Pension Fidelity Worldwide Special Situations S2,Equities,7,0.9,0,0.9
+Aviva Pension Fidelity Worldwide Special Situations S3,Equities,7,0.9,0,0.9
+Aviva Pension Fidelity Worldwide Special Situations S5,Equities,7,0.9,0,0.9
+Aviva Pension First Sentier Global Listed Infrastructure S6,Equities  Specialist/Other,5,0.7,0.05,0.65
+Aviva Pension Fixed Interest (CGU),Gilts,4,0,,
+Aviva Pension Fixed Interest (CU),Gilts,4,0,,
+Aviva Pension Fixed Interest (GA) S1,Gilts,4,0,,
+Aviva Pension Fixed Interest (GA) S2,Gilts,4,0,,
+Aviva Pension Fixed Interest (PM),Gilts,4,0,,
+Aviva Pension Fixed Interest 1 S12 and 9 S12,Gilts,4,0,,
+Aviva Pension Fixed Interest 2 S12,Gilts,4,0,,
+Aviva Pension Fixed Interest 3 S12,Gilts,4,0,,
+Aviva Pension Fixed Interest Initial (PM),Gilts,4,0,,
+Aviva Pension Fixed Interest S12,Gilts,4,0,,
+Aviva Pension Fixed Interest YP (CGU),Gilts,4,0,0,0
+Aviva Pension Flexible Investment (CU),Mixed assets,5,0,,
+Aviva Pension Flexible Investment 1 S12 and 9 S12,Mixed assets,5,0,,
+Aviva Pension Flexible Investment 2 S12,Mixed assets,5,0,,
+Aviva Pension Flexible Investment 3 S12,Mixed assets,5,0,,
+Aviva Pension Flexible Investment S12,Mixed assets,5,0,,
+Aviva Pension Flexible Investment S6,Mixed assets,5,0.05,0,0.05
+Aviva Pension Flexible Investment S7,Mixed assets,5,0.05,0,0.05
+Aviva Pension Flexible Investment S9,Mixed assets,5,0,0,0
+Aviva Pension FSSA Greater China Growth S6,Equities,7,0.94,0.09,0.85
+Aviva Pension FTF Martin Currie UK Mid Cap S6,Equities  Ethical,7,0.82,0.07,0.75
+Aviva Pension Gilt (NU),Gilts,4,0,,
+Aviva Pension Gilt (NU) S3,Gilts,4,0,0,0
+Aviva Pension Gilt S1,Gilts,4,0,,
+Aviva Pension Gilt S2,Gilts,4,0,0,0
+Aviva Pension Gilt S3,Gilts,4,0,0,0
+Aviva Pension Gilt S4,Gilts,4,0,,
+Aviva Pension Gilt S6,Gilts,4,0.05,0.05,0
+Aviva Pension Gilt TESCO S10,Gilts,4,0,,
+Aviva Pension Global Bond (NU),Global bonds,3,0,,
+Aviva Pension Global Bond (NU) S3,Global bonds,3,0,0,0
+Aviva Pension Global Bond S1,Global bonds,3,0,,
+Aviva Pension Global Bond S2,Global bonds,3,0,0,0
+Aviva Pension Global Bond S3,Global bonds,3,0,0,0
+Aviva Pension Global Bond S4,Global bonds,3,0,,
+Aviva Pension Global Bond S6,Global bonds,3,0.01,0.01,0
+Aviva Pension Global Equity (NU),Equities,5,0,,
+Aviva Pension Global Equity (NU) S3,Equities,5,0,0,0
+Aviva Pension Global Equity S1,Equities,5,0,,
+Aviva Pension Global Equity S13,Equities,5,0.02,0.02,0
+Aviva Pension Global Equity S2,Equities,5,0,0,0
+Aviva Pension Global Equity S3,Equities,5,0,0,0
+Aviva Pension Global Equity S4,Equities,5,0,,
+Aviva Pension Global Equity S6,Equities,5,0.02,0.02,0
+Aviva Pension Global Managed 1 S12 and 9 S12,Equities,5,0,,
+Aviva Pension Global Managed 2 S12,Equities,5,0,,
+Aviva Pension Global Managed 3 S12,Equities,5,0,,
+Aviva Pension Growth Managed 1 S12 and 9 S12,Mixed assets,4,0,,
+Aviva Pension Growth Managed 2 S12,Mixed assets,4,0,,
+Aviva Pension Growth Managed 3 S12,Mixed assets,4,0,,
+Aviva Pension Growth Managed S12,Mixed assets,4,0,,
+Aviva Pension Hamilton Pension Fund,Mixed assets,4,0,,
+Aviva Pension Higher Income Plus S13,Corporate bonds  Global bonds,3,0.22,0.02,0.2
+Aviva Pension Higher Income Plus S6,Corporate bonds  Global bonds,3,0.22,0.02,0.2
+Aviva Pension HSBC Global Sukuk Index S3,Corporate bonds  Global bonds  Specialist/Other,3,0.3,0,0.3
+Aviva Pension HSBC Global Sukuk Index S6,Corporate bonds  Global bonds  Specialist/Other,3,0.3,0,0.3
+Aviva Pension HSBC Islamic Global Equity Index S6,Equities  Tracker,6,0.3,0,0.3
+Aviva Pension HSBC Shariah Multi Asset S3,Mixed assets  Equities  Specialist/Other,5,0.35,0,0.35
+Aviva Pension HSBC Shariah Multi Asset S6,Mixed assets  Equities  Specialist/Other,5,0.35,0,0.35
+Aviva Pension Index Linked Gilt (CU),Gilts,5,0,,
+Aviva Pension Index Linked Gilt (GA) S2,Gilts,5,0,,
+Aviva Pension Index Linked Gilt (PM),Gilts,5,0,,
+Aviva Pension Index Linked Gilt Initial (PM),Gilts,5,0,,
+Aviva Pension Index Linked Gilt S1,Gilts,5,0,,
+Aviva Pension Index Linked Gilt S13,Gilts,5,0.04,0.04,0
+Aviva Pension Index Linked Gilt S2,Gilts,5,0,0,0
+Aviva Pension Index Linked Gilt S3,Gilts,5,0,0,0
+Aviva Pension Index Linked Gilt S6,Gilts,5,0.04,0.04,0
+Aviva Pension Index-Linked Gilt (CGU),Gilts  Fixed Income,5,0,,
+Aviva Pension Index-Linked Gilt (GA) S1,Gilts  Fixed Income,5,0,,
+Aviva Pension Index-Linked Gilt YP (CGU),Gilts  Fixed Income,5,0,0,0
+Aviva Pension International (GA) S1,Equities  Tracker,6,0,,
+Aviva Pension International Bond Jersey Investment Plan (NU),Corporate bonds  Global bonds,3,0,,
+Aviva Pension International Equity (CU),Equities,5,0,,
+Aviva Pension International Equity Jersey Investment Plan (NU),Equities,5,0,,
+Aviva Pension International Index Tracking (NU),Equities  Tracker,6,0,,
+Aviva Pension International Index Tracking (NU) S3,Equities  Tracker,6,0,0,0
+Aviva Pension International Index Tracking S1,Equities  Tracker,6,0,,
+Aviva Pension International Index Tracking S13,Equities  Tracker,6,0,0,0
+Aviva Pension International Index Tracking S2,Equities  Tracker,6,0,0,0
+Aviva Pension International Index Tracking S3,Equities  Tracker,6,0,0,0
+Aviva Pension International Index Tracking S4,Equities  Tracker,6,0,,
+Aviva Pension International Index Tracking TESCO S10,Equities  Tracker,6,0,,
+Aviva Pension Invesco Asian S6,Equities,7,0.85,0.2,0.65
+Aviva Pension Invesco Corporate Bond S6,Corporate bonds  Global bonds,2,0.5,0.05,0.45
+Aviva Pension Invesco Distribution S13,Mixed assets,3,0.77,0.17,0.6
+Aviva Pension Invesco Distribution S6,Mixed assets,3,0.77,0.17,0.6
+Aviva Pension Invesco Emerging Markets ex China S6,Equities,7,0.7,0.05,0.65
+Aviva Pension Invesco European Equity S2,Equities,7,0.25,0,0.25
+Aviva Pension Invesco European Equity S3,Equities,7,0.25,0,0.25
+Aviva Pension Invesco European Equity S5,Equities,7,0.25,0,0.25
+Aviva Pension Invesco Monthly Income Plus S6,Corporate bonds  Global bonds,3,0.67,0.17,0.5
+Aviva Pension Invesco UK Smaller Companies S2,Equities,7,0.25,0,0.25
+Aviva Pension Invesco UK Smaller Companies S3,Equities,7,0.25,0,0.25
+Aviva Pension Invesco UK Smaller Companies S5,Equities,7,0.25,0,0.25
+Aviva Pension Investment Pathway 1 S10,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 1 S2,Mixed assets,3,0,0,0
+Aviva Pension Investment Pathway 1 S3,Mixed assets,3,0,0,0
+Aviva Pension Investment Pathway 1 S4,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 1 S6,Mixed assets,3,0,0,0
+Aviva Pension Investment Pathway 2 S10,Corporate bonds  Gilts,4,0,,
+Aviva Pension Investment Pathway 2 S2,Corporate bonds  Gilts,4,0,0,0
+Aviva Pension Investment Pathway 2 S3,Corporate bonds  Gilts,4,0,0,0
+Aviva Pension Investment Pathway 2 S4,Corporate bonds  Gilts,4,0,,
+Aviva Pension Investment Pathway 2 S6,Corporate bonds  Gilts,4,0,0,0
+Aviva Pension Investment Pathway 3 S10,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 3 S2,Mixed assets,3,0,0,0
+Aviva Pension Investment Pathway 3 S3,Mixed assets,3,0,0,0
+Aviva Pension Investment Pathway 3 S4,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 3 S6,Mixed assets,3,0,0,0
+Aviva Pension Investment Pathway 4 S10,Mixed assets,2,0,,
+Aviva Pension Investment Pathway 4 S2,Mixed assets,2,0,0,0
+Aviva Pension Investment Pathway 4 S3,Mixed assets,2,0,0,0
+Aviva Pension Investment Pathway 4 S4,Mixed assets,2,0,,
+Aviva Pension Investment Pathway 4 S6,Mixed assets,2,0,0,0
+Aviva Pension Janus Henderson Cautious Managed S13,Mixed assets,4,0.8,0.15,0.65
+Aviva Pension Janus Henderson Cautious Managed S6,Mixed assets,4,0.8,0.15,0.65
+Aviva Pension Janus Henderson Cautious Managed S7,Mixed assets,4,0.8,0.15,0.65
+Aviva Pension Janus Henderson European Mid and Large Cap S6,Equities,6,0.81,0.16,0.65
+Aviva Pension Janus Henderson European Selected Opportunities S6,Equities,6,0.9,0.15,0.75
+Aviva Pension Janus Henderson Sterling Bond S6,Corporate bonds  Global bonds,3,0.61,0.16,0.45
+Aviva Pension Janus Henderson UK Smaller Companies S6,Equities,7,0.85,0.1,0.75
+Aviva Pension Japan (CGU),Equities,6,0,,
+Aviva Pension Japan (GA) S1,Equities,6,0,,
+Aviva Pension Japan 2 (GA) S1,Equities,6,0,,
+Aviva Pension Japan S9,Equities,6,0,0,0
+Aviva Pension Japan YP (CGU),Equities,6,0,0,0
+Aviva Pension Japanese S12,Equities,6,0,,
+Aviva Pension JPM Emerging Markets S13,Equities,7,0.73,0.08,0.65
+Aviva Pension JPM Emerging Markets S6,Equities,7,0.73,0.08,0.65
+Aviva Pension JPM Europe Dynamic S6,Equities,7,0.7,0.1,0.6
+Aviva Pension JPM European Smaller Cos S6,Equities,7,0.72,0.12,0.6
+Aviva Pension JPM Natural Resources S6,Equities  Specialist/Other,7,0.68,0.08,0.6
+Aviva Pension JPM US Select S6,Equities,6,0.55,0.05,0.5
+Aviva Pension Jupiter Ecology S6,Equities  Ethical,6,0.8,0.02,0.78
+Aviva Pension Jupiter Financial Opportunities S6,Equities  Specialist/Other,7,1,0.02,0.98
+Aviva Pension Jupiter Financial Opportunities S7,Equities  Specialist/Other,7,0.77,0.02,0.75
+Aviva Pension Jupiter Merlin Balanced Portfolio S6,Mixed assets,4,1.43,0.46,0.97
+Aviva Pension Jupiter Merlin Growth Portfolio S6,Mixed assets,5,1.56,0.59,0.97
+Aviva Pension Jupiter Merlin Income Portfolio S6,Mixed assets,4,1.31,0.34,0.97
+Aviva Pension Jupiter Merlin Worldwide Portfolio S6,Equities,4,1.54,0.56,0.98
+Aviva Pension Jupiter Strategic Bond S6,Corporate bonds  Global bonds,3,0.73,0,0.73
+Aviva Pension Jupiter UK Alpha S6,Equities,7,0.7,0,0.7
+Aviva Pension L&G Global Infrastructure Index S6,Equities  Tracker,6,0.3,0,0.3
+Aviva Pension Legal & General Global Real Estate Dividend Index S6,Equities,7,0.21,0.01,0.2
+Aviva Pension LGIM Hybrid Property S6,Property,5,0.53,0.03,0.5
+Aviva Pension LGIM Infrastructure Index S6,Equities  Tracker,6,0.35,0,0.35
+Aviva Pension Liontrust Sustainable Future Cautious Managed S6,Mixed assets  Ethical,4,0.48,0.18,0.3
+Aviva Pension Liontrust Sustainable Future Corporate Bond 2 S6,Corporate bonds  Global bonds  Ethical,4,0.1,0.05,0.05
+Aviva Pension Liontrust Sustainable Future Corporate Bond S2,Corporate bonds  Ethical,4,0,0,0
+Aviva Pension Liontrust Sustainable Future Corporate Bond S3,Corporate bonds  Ethical,4,0,0,0
+Aviva Pension Liontrust Sustainable Future Defensive Managed S6,Mixed assets  Ethical,3,0.48,0.18,0.3
+Aviva Pension Liontrust Sustainable Future European Growth 2 S6,Equities  Ethical,6,0.25,0.05,0.2
+Aviva Pension Liontrust Sustainable Future European Growth S2,Equities  Ethical,6,0,0,0
+Aviva Pension Liontrust Sustainable Future European Growth S3,Equities  Ethical,6,0,0,0
+Aviva Pension Liontrust Sustainable Future European Growth S6,Equities  Ethical,6,0.05,0.05,0
+Aviva Pension Liontrust Sustainable Future Global Growth 2 S6,Equities  Ethical,6,0.25,0.05,0.2
+Aviva Pension Liontrust Sustainable Future Global Growth S2,Equities  Ethical,6,0,0,0
+Aviva Pension Liontrust Sustainable Future Global Growth S3,Equities  Ethical,6,0,0,0
+Aviva Pension Liontrust Sustainable Future Global Growth S6,Equities  Ethical,6,0.05,0.05,0
+Aviva Pension Liontrust Sustainable Future Managed 2 S6,Equities  Corporate bonds  Ethical,5,0.22,0.07,0.15
+Aviva Pension Liontrust Sustainable Future Managed Growth 2 S6,Equities  Ethical,6,0.3,0.05,0.25
+Aviva Pension Liontrust Sustainable Future Managed Growth S2,Equities  Ethical,6,0,0,0
+Aviva Pension Liontrust Sustainable Future Managed Growth S3,Equities  Ethical,6,0,0,0
+Aviva Pension Liontrust Sustainable Future Managed Growth S6,Equities  Ethical,6,0.05,0.05,0
+Aviva Pension Liontrust Sustainable Future Managed S2,Mixed assets  Ethical,5,0,0,0
+Aviva Pension Liontrust Sustainable Future Managed S3,Mixed assets  Ethical,5,0,0,0
+Aviva Pension Liontrust Sustainable Future Managed S6,Mixed assets  Ethical,5,0.07,0.07,0
+Aviva Pension Liontrust Sustainable Future UK Growth 2 S6,Equities  Ethical,7,0.31,0.11,0.2
+Aviva Pension Liontrust Sustainable Future UK Growth S2,Equities  Ethical,7,0,0,0
+Aviva Pension Liontrust Sustainable Future UK Growth S3,Equities  Ethical,7,0,0,0
+Aviva Pension Liontrust UK Ethical (NU),Equities  Ethical,7,0,,
+Aviva Pension Liontrust UK Ethical (NU) S3,Equities  Ethical,7,0,0,0
+Aviva Pension Liontrust UK Ethical 2 S6,Equities  Ethical,7,0.33,0.18,0.15
+Aviva Pension Liontrust UK Ethical S1,Equities  Ethical,7,0,,
+Aviva Pension Liontrust UK Ethical S2,Equities  Ethical,7,0,0,0
+Aviva Pension Liontrust UK Ethical S3,Equities  Ethical,7,0,0,0
+Aviva Pension Liontrust UK Ethical S4,Equities  Ethical,7,0,,
+Aviva Pension Liontrust UK Ethical S6,Equities  Ethical,7,0.18,0.18,0
+Aviva Pension Long Gilt (NU),Gilts,5,0,,
+Aviva Pension Long Gilt (NU) S3,Gilts,5,0,0,0
+Aviva Pension Long Gilt Portfolio (CGU),Gilts,5,0,,
+Aviva Pension Long Gilt Portfolio (CU),Gilts,5,0,,
+Aviva Pension Long Gilt Portfolio S9,Gilts,5,0,0,0
+Aviva Pension Long Gilt Portfolio YP (CGU),Gilts,5,0,0,0
+Aviva Pension Long Gilt S1,Gilts,5,0,,
+Aviva Pension Long Gilt S13,Gilts,5,0.07,0.07,0
+Aviva Pension Long Gilt S2,Gilts,5,0,0,0
+Aviva Pension Long Gilt S3,Gilts,5,0,0,0
+Aviva Pension Long Gilt S4,Gilts,5,0,,
+Aviva Pension Long Gilt S6,Gilts,5,0.07,0.07,0
+Aviva Pension M&G Corporate Bond S6,Corporate bonds  Global bonds,3,0.4,0,0.4
+Aviva Pension M&G Global Dividend S6,Equities,6,0.47,0,0.47
+Aviva Pension M&G Global Themes S6,Equities,6,0.57,0,0.57
+Aviva Pension M&G Optimal Income S6,Corporate bonds  Gilts  Global bonds,3,0.57,0,0.57
+Aviva Pension M&G Strategic Corporate Bond S6,Corporate bonds  Global bonds,3,0.45,0.02,0.43
+Aviva Pension M&G Total Return Credit Investment S6,Corporate bonds  Gilts  Cash /Money Market,3,0.45,0,0.45
+Aviva Pension Man Balanced Managed S2,Mixed assets,4,0.25,0,0.25
+Aviva Pension Man Balanced Managed S3,Mixed assets,4,0.25,0,0.25
+Aviva Pension Man Balanced Managed S5,Mixed assets,4,0.25,0,0.25
+Aviva Pension Man GLG Japan CoreAlpha S6,Equities,7,0.8,0.15,0.65
+Aviva Pension Man Stockmarket Managed S2,Mixed assets,5,0.25,0,0.25
+Aviva Pension Man Stockmarket Managed S3,Mixed assets,5,0.25,0,0.25
+Aviva Pension Man Stockmarket Managed S5,Mixed assets,5,0.25,0,0.25
+Aviva Pension Managed High Income S2,Corporate bonds  Global bonds,3,0,0,0
+Aviva Pension Managed High Income S3,Corporate bonds  Global bonds,3,0,0,0
+Aviva Pension Managed High Income S6,Corporate bonds  Global bonds,3,0.02,0.02,0
+Aviva Pension Mixed Investment (0-35% Shares) (NU),Mixed assets,2,0,,
+Aviva Pension Mixed Investment (0-35% Shares) (NU) S3,Mixed assets,2,0,0,0
+Aviva Pension Mixed Investment (0-35% Shares) 1 S12 and 9 S12,Mixed assets,2,0,,
+Aviva Pension Mixed Investment (0-35% Shares) 2 S12,Mixed assets,2,0,,
+Aviva Pension Mixed Investment (0-35% Shares) 3 S12,Mixed assets,2,0,,
+Aviva Pension Mixed Investment (0-35% Shares) S1,Mixed assets,2,0,,
+Aviva Pension Mixed Investment (0-35% Shares) S13,Mixed assets,2,0.04,0.04,0
+Aviva Pension Mixed Investment (0-35% Shares) S2,Mixed assets,2,0,0,0
+Aviva Pension Mixed Investment (0-35% Shares) S3,Mixed assets,2,0,0,0
+Aviva Pension Mixed Investment (0-35% Shares) S4,Mixed assets,2,0,,
+Aviva Pension Mixed Investment (0-35% Shares) S6,Mixed assets,2,0.04,0.04,0
+Aviva Pension Mixed Investment (20-60% Shares) (CU),Mixed assets,3,0,,
+Aviva Pension Mixed Investment (20-60% Shares) S12,Mixed assets,3,0,,
+Aviva Pension Mixed Investment (20-60% Shares) S13,Mixed assets,3,0.03,0.03,0
+Aviva Pension Mixed Investment (20-60% Shares) S2,Mixed assets,3,0,0,0
+Aviva Pension Mixed Investment (20-60% Shares) S3,Mixed assets,3,0,0,0
+Aviva Pension Mixed Investment (20-60% Shares) S4,Mixed assets,3,0,,
+Aviva Pension Mixed Investment (20-60% Shares) S6,Mixed assets,3,0.03,0.03,0
+Aviva Pension Mixed Investment (20-60% Shares) S9,Mixed assets,3,0,0,0
+Aviva Pension Mixed Investment (40-85% Shares) (CGU),Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) (CU),Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) (GA) S1,Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) (GA) S2,Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) (NU),Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) (NU) S3,Mixed assets,4,0,0,0
+Aviva Pension Mixed Investment (40-85% Shares) (PM),Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) Initial (PM),Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) S1,Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) S13,Mixed assets,4,0.03,0.03,0
+Aviva Pension Mixed Investment (40-85% Shares) S2,Mixed assets,4,0,0,0
+Aviva Pension Mixed Investment (40-85% Shares) S3,Mixed assets,4,0,0,0
+Aviva Pension Mixed Investment (40-85% Shares) S4,Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) S6,Mixed assets,4,0.03,0.03,0
+Aviva Pension Mixed Investment (40-85% Shares) TESCO S10,Mixed assets,4,0,,
+Aviva Pension Mixed Investment (40-85% Shares) YP (CGU),Mixed assets,4,0,0,0
+Aviva Pension Multi-asset Plus Fund I S6,Mixed assets,2,0.16,0.16,0
+Aviva Pension Multi-asset Plus Fund II S6,Mixed assets,3,0.11,0.11,0
+Aviva Pension Multi-asset Plus Fund III S6,Mixed assets,4,0.11,0.11,0
+Aviva Pension Multi-asset Plus Fund IV S6,Mixed assets,4,0.09,0.09,0
+Aviva Pension Multi-asset Plus Fund V S6,Mixed assets,5,0.11,0.11,0
+Aviva Pension Multi-Asset Sustainable Stewardship I S6,Mixed assets,2,0.15,0,0.15
+Aviva Pension Multi-Asset Sustainable Stewardship II S6,Mixed assets,3,0.15,0,0.15
+Aviva Pension Multi-Asset Sustainable Stewardship III S6,Mixed assets,4,0.15,0,0.15
+Aviva Pension Multi-Asset Sustainable Stewardship IV S6,Mixed assets,4,0.15,0,0.15
+Aviva Pension Multi-Manager 20-60% Shares S13,Mixed assets,3,0.64,0.42,0.22
+Aviva Pension Multi-Manager 20-60% Shares S2,Mixed assets,3,0.7,0,0.7
+Aviva Pension Multi-Manager 20-60% Shares S3,Mixed assets,3,0.7,0,0.7
+Aviva Pension Multi-Manager 20-60% Shares S5,Mixed assets,3,0.7,0,0.7
+Aviva Pension Multi-Manager 20-60% Shares S6,Mixed assets,3,0.64,0.42,0.22
+Aviva Pension Multi-Manager 40-85% Shares S2,Mixed assets,4,0.8,0,0.8
+Aviva Pension Multi-Manager 40-85% Shares S3,Mixed assets,4,0.8,0,0.8
+Aviva Pension Multi-Manager 40-85% Shares S5,Mixed assets,4,0.8,0,0.8
+Aviva Pension Multi-Manager 40-85% Shares S6,Mixed assets,4,0.74,0.52,0.22
+Aviva Pension Multi-Manager Flexible S2,Mixed assets,5,0.8,0,0.8
+Aviva Pension Multi-Manager Flexible S3,Mixed assets,5,0.8,0,0.8
+Aviva Pension Multi-Manager Flexible S5,Mixed assets,5,0.8,0,0.8
+Aviva Pension Multi-Manager Flexible S6,Mixed assets,5,0.77,0.54,0.23
+Aviva Pension Multi-Manager Flexible S7,Mixed assets,5,0.77,0.54,0.23
+Aviva Pension Multi-Strategy Target Return S6,Specialist/Other,3,0.81,0.11,0.7
+Aviva Pension My Future Annuity S2,Corporate bonds  Global bonds  Gilts,4,0,0,0
+Aviva Pension My Future Annuity S3,Corporate bonds  Global bonds  Gilts,4,0,0,0
+Aviva Pension My Future Annuity S6,Corporate bonds  Global bonds  Gilts,4,0,0,0
+Aviva Pension My Future Cash Lump Sum S2,Corporate bonds  Gilts,2,0,0,0
+Aviva Pension My Future Cash Lump Sum S3,Corporate bonds  Gilts,2,0,0,0
+Aviva Pension My Future Cash Lump Sum S6,Corporate bonds  Gilts,2,0,0,0
+Aviva Pension My Future Consolidation S2,Mixed assets,3,0,0,0
+Aviva Pension My Future Consolidation S3,Mixed assets,3,0,0,0
+Aviva Pension My Future Consolidation S6,Mixed assets,3,0,0,0
+Aviva Pension My Future Drawdown S2,Mixed assets,4,0,0,0
+Aviva Pension My Future Drawdown S3,Mixed assets,4,0,0,0
+Aviva Pension My Future Drawdown S6,Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Annuity S2,Corporate bonds  Global bonds  Gilts,4,0,0,0
+Aviva Pension My Future Focus Annuity S3,Corporate bonds  Global bonds  Gilts,4,0,0,0
+Aviva Pension My Future Focus Annuity S6,Corporate bonds  Global bonds  Gilts,4,0,0,0
+Aviva Pension My Future Focus Cash Lump Sum S2,Corporate bonds  Global bonds  Gilts,2,0,0,0
+Aviva Pension My Future Focus Cash Lump Sum S3,Corporate bonds  Global bonds  Gilts,2,0,0,0
+Aviva Pension My Future Focus Cash Lump Sum S6,Corporate bonds  Global bonds  Gilts,2,0,0,0
+Aviva Pension My Future Focus Consolidation (Pre-2024) (CGU),Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) (CU),Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) (NU),Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) S1,Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) S10,Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) S13,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation (Pre-2024) S2,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation (Pre-2024) S3,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation (Pre-2024) S4,Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) S6,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation (Pre-2024) TESCO S10,Mixed assets,2,1,0,1
+Aviva Pension My Future Focus Consolidation (Pre-2024) YP (CGU),Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation S2,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation S3,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Consolidation S4,Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation S6,Mixed assets,2,0,0,0
+Aviva Pension My Future Focus Drawdown S2,Mixed assets,3,0,0,0
+Aviva Pension My Future Focus Drawdown S3,Mixed assets,3,0,0,0
+Aviva Pension My Future Focus Drawdown S6,Mixed assets,3,0,0,0
+Aviva Pension My Future Focus Growth (CGU),Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth (CU),Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth (NU),Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth S1,Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth S13,Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth S2,Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth S3,Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth S6,Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Growth YP (CGU),Mixed assets,4,0,0,0
+Aviva Pension My Future Focus Long Term Growth S2,Mixed assets,5,0,0,0
+Aviva Pension My Future Focus Long Term Growth S3,Mixed assets,5,0,0,0
+Aviva Pension My Future Focus Long Term Growth S4,Mixed assets,5,0,,
+Aviva Pension My Future Focus Long Term Growth S6,Mixed assets,5,0,0,0
+Aviva Pension My Future Growth S2,Mixed assets,4,0,0,0
+Aviva Pension My Future Growth S3,Mixed assets,4,0,0,0
+Aviva Pension My Future Growth S6,Mixed assets,4,0,0,0
+Aviva Pension Ninety One American Franchise S2,Equities,6,0.6,0,0.6
+Aviva Pension Ninety One American Franchise S3,Equities,6,0.6,0,0.6
+Aviva Pension Ninety One American Franchise S5,Equities,6,0.6,0,0.6
+Aviva Pension Ninety One American Franchise S6,Equities,6,0.69,0.09,0.6
+Aviva Pension Ninety One Asia Pacific Franchise S6,Equities,7,0.85,0.15,0.7
+Aviva Pension Ninety One Emerging Markets Local Currency Debt S6,Global bonds,4,0.87,0.22,0.65
+Aviva Pension Ninety One Global Environment S6,Equities  Ethical,7,0.81,0.11,0.7
+Aviva Pension Ninety One Global Gold S6,Equities  Specialist/Other,7,0.79,0.09,0.7
+Aviva Pension Ninety One Global Income Opportunities S2,Mixed assets,4,0.57,0,0.57
+Aviva Pension Ninety One Global Income Opportunities S3,Mixed assets,4,0.57,0,0.57
+Aviva Pension Ninety One Global Income Opportunities S5,Mixed assets,4,0.57,0,0.57
+Aviva Pension Ninety One Global Income Opportunities S6,Mixed assets,4,0.7,0.13,0.57
+Aviva Pension Ninety One Global Strategic Equity S6,Equities,6,0.76,0.11,0.65
+Aviva Pension Ninety One Global Strategic Equity S7,Equities,6,0.76,0.11,0.65
+Aviva Pension Overseas Equity (CGU),Equities,5,0,,
+Aviva Pension Overseas Equity (GA) S2,Equities,5,0,,
+Aviva Pension Overseas Equity (PM),Equities,5,0,,
+Aviva Pension Overseas Equity Initial (PM),Equities,5,0,,
+Aviva Pension Overseas Equity YP (CGU),Equities,5,0,0,0
+Aviva Pension Pacific (CGU),Equities,7,0,,
+Aviva Pension Pacific (GA) S1,Equities,7,0,,
+Aviva Pension Pacific Equity (ex Japan ) S9,Equities,7,0,0,0
+Aviva Pension Pacific Equity (NU),Equities,6,0,,
+Aviva Pension Pacific Equity (NU) S3,Equities,6,0,0,0
+Aviva Pension Pacific Equity S1,Equities,6,0,,
+Aviva Pension Pacific Equity S13,Equities,6,0.04,0.04,0
+Aviva Pension Pacific Equity S2,Equities,6,0,0,0
+Aviva Pension Pacific Equity S3,Equities,6,0,0,0
+Aviva Pension Pacific Equity S4,Equities,6,0,,
+Aviva Pension Pacific Equity S6,Equities,6,0.04,0.04,0
+Aviva Pension Pacific YP (CGU),Equities,7,0,0,0
+Aviva Pension Property (CGU),Property,4,0,,
+Aviva Pension Property (CU),Property,4,0,,
+Aviva Pension Property (GA) S1,Property,4,0,,
+Aviva Pension Property (GA) S2,Property,4,0,,
+Aviva Pension Property (NU),Property,4,0,,
+Aviva Pension Property (NU) S3,Property,4,0,0,0
+Aviva Pension Property (PM),Property,4,0,,
+Aviva Pension Property 2 S13,Property,4,0.26,0.01,0.25
+Aviva Pension Property Initial (PM),Property,4,0,,
+Aviva Pension Property S1,Property,4,0,,
+Aviva Pension Property S2,Property,4,0,0,0
+Aviva Pension Property S3,Property,4,0,0,0
+Aviva Pension Property S4,Property,4,0,,
+Aviva Pension Property YP (CGU),Property,4,0,0,0
+Aviva Pension Rathbone Global Opportunities S6,Equities,6,0.72,0.02,0.7
+Aviva Pension Regular With Profit 9 S12,With-Profit,3,0,,
+Aviva Pension Reserve S11 (Fixed Term Retirement Plan Only),Cash/Money market,1,0.15,0,0.15
+Aviva Pension RGI UK Listed Smaller Companies S6,Equities,6,0.85,0.1,0.75
+Aviva Pension Robeco Global Credits S6,Corporate bonds  Global bonds,4,0.53,0.13,0.4
+Aviva Pension RP Deposit (NU),Cash/Money market,1,0,,
+Aviva Pension RP Fixed Interest (NU),Gilts,4,0,,
+Aviva Pension RP Index-Linked Securities (NU),Fixed Income,4,0,,
+Aviva Pension RP International (NU),Equities,5,0,,
+Aviva Pension RP Mixed Investment (40-85% Shares) (NU),Mixed assets,4,0,,
+Aviva Pension RP Ordinary Share (NU),Equities,6,0,,
+Aviva Pension RP Property (NU),Property,4,0,,
+Aviva Pension Schroder Asian Alpha Plus S6,Equities,7,0.92,0.17,0.75
+Aviva Pension Schroder Diversified Growth S6,Specialist/Other  Mixed assets,3,0.6,0.05,0.55
+Aviva Pension Schroder European Recovery S6,Equities,7,0.86,0.21,0.65
+Aviva Pension Schroder Gilt & Fixed Interest S2,Gilts,3,0.3,0,0.3
+Aviva Pension Schroder Gilt & Fixed Interest S3,Gilts,3,0.3,0,0.3
+Aviva Pension Schroder Gilt & Fixed Interest S5,Gilts,3,0.3,0,0.3
+Aviva Pension Schroder Gilt & Fixed Interest S6,Gilts,3,0.33,0.08,0.25
+Aviva Pension Schroder Global Cities Real Estate S6,Equities  Property,6,0.85,0.15,0.7
+Aviva Pension Schroder Global Emerging Markets S6,Equities,7,0.92,0.22,0.7
+Aviva Pension Schroder Global Equity Income S6,Equities,7,0.9,0.2,0.7
+Aviva Pension Schroder Global Healthcare S6,Equities  Specialist/Other,6,0.87,0.17,0.7
+Aviva Pension Schroder Income Maximiser S6,Equities,6,0.86,0.16,0.7
+Aviva Pension Schroder Managed Balanced S6,Mixed assets,4,0.51,0.11,0.4
+Aviva Pension Schroder Sustainable Future Multi Asset S6,Mixed assets  Ethical,4,0.3,0.05,0.25
+Aviva Pension Schroder Tokyo S6,Equities,6,0.95,0.1,0.85
+Aviva Pension Schroder Tokyo S7,Equities,6,0.95,0.1,0.85
+Aviva Pension Schroder UK Alpha Plus S13,Equities,6,0.8,0,0.8
+Aviva Pension Schroder UK Alpha Plus S2,Equities,6,0.8,0,0.8
+Aviva Pension Schroder UK Alpha Plus S3,Equities,6,0.8,0,0.8
+Aviva Pension Schroder UK Alpha Plus S5,Equities,6,0.8,0,0.8
+Aviva Pension Schroder UK Alpha Plus S6,Equities,6,0.8,0,0.8
+Aviva Pension Schroder US Mid Cap S6,Equities,7,0.84,0.14,0.7
+Aviva Pension Shariah Consolidation S6,Mixed Assets,3,0.34,0,0.34
+Aviva Pension Shariah Drawdown S6,Mixed Assets,4,0.35,0,0.35
+Aviva Pension Shariah Growth S6,Mixed Assets,5,0.33,0,0.33
+Aviva Pension Shariah Long Term Growth S6,Equities,6,0.3,0,0.3
+Aviva Pension Single with Profit 9 S12,With-Profit,3,0,,
+Aviva Pension Stakeholder With Profit 3 S2,With-Profit,3,0,0,0
+Aviva Pension Stakeholder With Profit S3,With-Profit,3,0,0,0
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability S13,Equities,5,0.79,0.04,0.75
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability S6,Equities,5,0.79,0.04,0.75
+Aviva Pension Strategic Bond S6,Corporate bonds  Gilts  Global bonds,3,0.28,0.03,0.25
+Aviva Pension Sustainable Stewardship Bond S6,Corporate bonds  Ethical,3,0.15,0.02,0.13
+Aviva Pension Sustainable Stewardship International Equity S6,Equities  Ethical,5,0.15,0.02,0.13
+Aviva Pension Sustainable Stewardship Managed S6,Mixed assets  Ethical,4,0.15,0.02,0.13
+Aviva Pension Sustainable Stewardship UK Equity Income S6,Equities  Ethical,6,0.19,0.06,0.13
+Aviva Pension Sustainable Stewardship UK Equity S6,Equities  Ethical,6,0.14,0.01,0.13
+Aviva Pension T. Rowe Price Emerging Markets Equity S6,Equities,7,1.02,0.02,1
+Aviva Pension UK Equity (CGU),Equities,6,0,,
+Aviva Pension UK Equity (CU),Equities,6,0,,
+Aviva Pension UK Equity (GA) S1,Equities,6,0,,
+Aviva Pension UK Equity (GA) S2,Equities,6,0,,
+Aviva Pension UK Equity (NU),Equities,6,0,,
+Aviva Pension UK Equity (NU) S3,Equities,6,0,0,0
+Aviva Pension UK Equity (PM),Equities,6,0,,
+Aviva Pension UK Equity 1 S12 and 9 S12,Equities,6,0,,
+Aviva Pension UK Equity 2 S12,Equities,6,0,,
+Aviva Pension UK Equity 3 S12,Equities,6,0,,
+Aviva Pension UK Equity Income S13,Equities,6,0.37,0.02,0.35
+Aviva Pension UK Equity Income S2,Equities,6,0.25,0,0.25
+Aviva Pension UK Equity Income S3,Equities,6,0.25,0,0.25
+Aviva Pension UK Equity Income S5,Equities,6,0.35,0,0.35
+Aviva Pension UK Equity Income S6,Equities,6,0.37,0.02,0.35
+Aviva Pension UK Equity Initial (PM),Equities,6,0,,
+Aviva Pension UK Equity S1,Equities,6,0,,
+Aviva Pension UK Equity S12,Equities,6,0,,
+Aviva Pension UK Equity S2,Equities,6,0,0,0
+Aviva Pension UK Equity S3,Equities,6,0,0,0
+Aviva Pension UK Equity S4,Equities,6,0,,
+Aviva Pension UK Equity S6,Equities,6,0.01,0.01,0
+Aviva Pension UK Equity YP (CGU),Equities,6,0,0,0
+Aviva Pension UK Index Tracking (CGU),Equities  Tracker,5,0,,
+Aviva Pension UK Index Tracking (GA) S1,Equities  Tracker,5,0,,
+Aviva Pension UK Index Tracking (NU),Equities  Tracker,5,0,,
+Aviva Pension UK Index Tracking (NU) S3,Equities  Tracker,5,0,0,0
+Aviva Pension UK Index Tracking S1,Equities  Tracker,5,0,,
+Aviva Pension UK Index Tracking S2,Equities  Tracker,5,0,0,0
+Aviva Pension UK Index Tracking S3,Equities  Tracker,5,0,0,0
+Aviva Pension UK Index Tracking S4,Equities  Tracker,5,0,,
+Aviva Pension UK Index Tracking S6,Equities  Tracker,5,0,0,0
+Aviva Pension UK Index Tracking TESCO S10,Equities  Tracker,5,0,,
+Aviva Pension UK Index Tracking YP (CGU),Equities  Tracker,5,0,0,0
+Aviva Pension ULP Deposit (NU),Cash/Money market,1,0,,
+Aviva Pension ULP Fixed Interest (NU),Gilts,4,0,,
+Aviva Pension ULP Index-Linked (NU),Fixed Income,4,0,,
+Aviva Pension ULP International (NU),Equities,5,0,,
+Aviva Pension ULP Mixed Investment (40-85% Shares) (NU),Mixed assets,4,0,,
+Aviva Pension ULP Ordinary Share (NU),Equities,6,0,,
+Aviva Pension ULP Property (NU),Property,4,0,,
+Aviva Pension US Equity (NU),Equities  Tracker,6,0,,
+Aviva Pension US Equity (NU) S3,Equities  Tracker,6,0,0,0
+Aviva Pension US Equity S1,Equities  Tracker,6,0,,
+Aviva Pension US Equity S2,Equities  Tracker,6,0,0,0
+Aviva Pension US Equity S3,Equities  Tracker,6,0,0,0
+Aviva Pension US Equity S4,Equities  Tracker,6,0,,
+Aviva Pension US Equity S6,Equities  Tracker,6,0.01,0.01,0
+Aviva Pension Vanguard FTSE Developed World ex-UK Index S6,Equities,6,0.08,0,0.08
+Aviva Pension Vanguard FTSE UK All Share Index S6,Equities,5,0.05,0,0.05
+Aviva Pension Vanguard Global Corporate Bond Index S6,Corporate bonds  Global bonds,3,0.12,0,0.12
+Aviva Pension Vanguard US Equity Index S6,Equities  Tracker,6,0.06,0,0.06
+Aviva Pension Variable Annuity (CU),Equities,6,0,,
+Aviva Pension Variable Annuity Acc (CU),Equities,6,0,,
+Aviva Pension With-Profit (CGU),With-Profit,3,0,,
+Aviva Pension With-Profit (CU),With-Profit,3,0,,
+Aviva Pension With-Profit (GA) S1,With-Profit,3,0,,
+Aviva Pension With-Profit (GA) S2,With-Profit,3,0,,
+Aviva Pension With-Profit (NU),With-Profit,3,0,,
+Aviva Pension With-Profit (NU) S3,With-Profit,3,0,0,0
+Aviva Pension With-Profit 1 S2,With-Profit,3,0,0,0
+Aviva Pension With-Profit 1 S9,With-Profit,3,0,0,0
+Aviva Pension With-Profit 2 S2,With-Profit,3,0,0,0
+Aviva Pension With-Profit 2 S9,With-Profit,3,0,0,0
+Aviva Pension With-Profit 3 S9,With-Profit,3,0,0,0
+Aviva Pension With-Profit 4 S9,With-Profit,3,0,0,0
+Aviva Pension With-Profit Guaranteed (CU),With-Profit,3,0,,
+Aviva Pension With-Profit Guaranteed (NU),With-Profit,3,0,,
+Aviva Pension With-Profit Guaranteed Jersey Investment Plan (NU),With-Profit,3,0,,
+Aviva Pension With-Profit Jersey Investment Plan (NU),With-Profit,3,0,,
+Aviva Pension With-Profit S1,With-Profit,3,0,,
+Aviva Pension With-Profit S2,With-Profit,3,0,0,0
+Aviva Pension With-Profit S3,With-Profit,3,0,0,0
+Aviva Pension With-Profit S4,With-Profit,3,0,,
+Aviva Pension With-Profit YP (CGU),With-Profit,3,0,0,0
+Aviva Insured Funds abrdn Asia Pacific Equity S14,Equities,6,0.86,0.11,0.75
+Aviva Insured Funds abrdn Diversified Growth and Income S14,Mixed assets,4,0.95,0.45,0.5
+Aviva Insured Funds Aegon Ethical Equity S14,Equities  Ethical,6,0.77,0.02,0.75
+Aviva Insured Funds Artemis Global Income S14,Equities,6,0.87,0.12,0.75
+Aviva Insured Funds Artemis Income S14,Equities,6,0.8,0.05,0.75
+Aviva Insured Funds Artemis SmartGARP Global Equity S14,Equities,5,0.89,0.14,0.75
+Aviva Insured Funds Artemis Strategic Bond S14,Corporate bonds  Global bonds,3,0.59,0.09,0.5
+Aviva Insured Funds Artemis UK Special Situations S14,Equities,7,0.86,0.11,0.75
+Aviva Insured Funds Asia-Pacific ex Japan Core Equity – ESG enhanced S14,Equities  Ethical,6,0.15,0,0.15
+Aviva Insured Funds AXA Framlington American Growth S14,Equities,6,0.82,0.07,0.75
+Aviva Insured Funds AXA Framlington Global Sustainable Managed S14,Mixed assets  Ethical,5,0.7,0.07,0.63
+Aviva Insured Funds AXA Framlington UK Select Opportunities S14,Equities,6,0.81,0.06,0.75
+Aviva Insured Funds BlackRock 50:50 Global Equity Index Tracker S14,Equities  Tracker,5,0.1,0,0.1
+Aviva Insured Funds BlackRock Consensus S14,Mixed assets  Tracker,4,0.1,0,0.1
+Aviva Insured Funds BlackRock Corporate Bond Index Tracker S14,Equities  Tracker,3,0.1,0,0.1
+Aviva Insured Funds BlackRock Emerging Markets Index Tracker S14,Equities  Tracker,7,0.28,0.08,0.2
+Aviva Insured Funds BlackRock European Equity Index Tracker S14,Equities  Tracker,6,0.1,0,0.1
+Aviva Insured Funds BlackRock Gold & General S14,Equities  Specialist/Other,7,1.05,0.17,0.88
+Aviva Insured Funds BlackRock Japanese Equity Index Tracker S14,Equities  Tracker,6,0.1,0,0.1
+Aviva Insured Funds BlackRock Over 15 Years Gilt Index Tracker S14,Gilts  Tracker,5,0.1,0,0.1
+Aviva Insured Funds BlackRock Over 15 yrs Corp Bond Tracker S14,Fixed Income  Tracker,5,0.1,0,0.1
+Aviva Insured Funds BlackRock Over 5 yrs Index-Lkd Gilt Tracker S14,Gilts  Tracker,5,0.1,0,0.1
+Aviva Insured Funds BlackRock Pacific Rim Equity Index Tracker S14,Equities  Tracker,7,0.1,0,0.1
+Aviva Insured Funds BlackRock Sterling Liquidity S14,Equities,1,0.15,0,0.15
+Aviva Insured Funds BlackRock UK Equity Index Tracker S14,Equities  Tracker,5,0.1,0,0.1
+Aviva Insured Funds BlackRock UK S14,Equities,6,0.9,0.15,0.75
+Aviva Insured Funds BlackRock UK Smaller Companies S14,Equities,7,0.75,0.15,0.6
+Aviva Insured Funds BlackRock UK Special Situations S14,Equities,6,0.9,0.15,0.75
+Aviva Insured Funds BlackRock US Equity Index Tracker S14,Equities  Tracker,6,0.1,0,0.1
+Aviva Insured Funds BlackRock World (Ex-UK) Equity Index S14,Equities  Tracker,6,0.1,0,0.1
+Aviva Insured Funds Blended Portfolio 2 S14,Mixed assets  Specialist/Other,3,0.2,0,0.2
+Aviva Insured Funds Blended Portfolio 3 S14,Mixed assets  Specialist/Other,3,0.2,0,0.2
+Aviva Insured Funds Blended Portfolio 4 S14,Mixed assets  Specialist/Other,4,0.2,0,0.2
+Aviva Insured Funds Blended Portfolio 5 S14,Mixed assets  Specialist/Other,4,0.2,0,0.2
+Aviva Insured Funds Blended Portfolio 6 S14,Mixed assets  Specialist/Other,4,0.2,0,0.2
+Aviva Insured Funds Blended Portfolio 7 S14,Mixed assets  Specialist/Other,5,0.2,0,0.2
+Aviva Insured Funds BNY Mellon Global Income S14,Equities,5,0.86,0.11,0.75
+Aviva Insured Funds BNY Mellon International Bond S14,Global bonds,3,0.64,0.14,0.5
+Aviva Insured Funds BNY Mellon Long-Term Global Equity S14,Equities,5,0.79,0.04,0.75
+Aviva Insured Funds BNY Mellon Multi-Asset Balanced S14,Mixed assets,4,0.86,0.11,0.75
+Aviva Insured Funds BNY Mellon Real Return S14,Specialist/Other,4,1.01,0.26,0.75
+Aviva Insured Funds Corporate Bond S14,Corporate bonds  Global bonds,3,0.32,0.02,0.3
+Aviva Insured Funds CT European Select S14,Equities,6,0.85,0.1,0.75
+Aviva Insured Funds CT UK Equity Income S14,Equities,6,0.84,0.09,0.75
+Aviva Insured Funds Deposit S14,Cash/Money market,1,0.1,0,0.1
+Aviva Insured Funds Diversified Assets Fund 1 S14,Mixed assets,2,0.15,0,0.15
+Aviva Insured Funds Diversified Assets Fund 2 S14,Mixed assets,2,0.15,0,0.15
+Aviva Insured Funds Diversified Assets Fund 3 S14,Mixed assets,3,0.15,0,0.15
+Aviva Insured Funds Diversified Assets Fund 4 S14,Mixed assets,4,0.15,0,0.15
+Aviva Insured Funds Diversified Assets Fund 5 S14,Mixed assets,5,0.15,0,0.15
+Aviva Insured Funds Europe ex UK Core Equity – ESG enhanced S14,Equities  Ethical,6,0.16,0.01,0.15
+Aviva Insured Funds European Equity S14,Equities,6,0.35,0.05,0.3
+Aviva Insured Funds Fidelity Asia S14,Equities,7,0.93,0.18,0.75
+Aviva Insured Funds Fidelity Emerging Markets S14,Equities,7,0.95,0.2,0.75
+Aviva Insured Funds Fidelity Sustainable MoneyBuilder Income S14,Corporate bonds  Global bonds  Ethical,3,0.56,0.16,0.4
+Aviva Insured Funds First Sentier Global Listed Infrastructure S14,Equities  Specialist/Other,5,0.8,0.05,0.75
+Aviva Insured Funds Flexible Investment S14,Mixed assets,5,0.18,0.03,0.15
+Aviva Insured Funds FTF Martin Currie UK Mid Cap S14,Equities  Ethical,7,0.82,0.07,0.75
+Aviva Insured Funds Gilt S14,Gilts,4,0.15,0.05,0.1
+Aviva Insured Funds Global Bond S14,Global bonds,3,0.31,0.01,0.3
+Aviva Insured Funds Global Equity S14,Equities,5,0.32,0.02,0.3
+Aviva Insured Funds HSBC Islamic Global Equity Index S14,Equities  Tracker,6,0.3,0,0.3
+Aviva Insured Funds Index-Linked Gilt S14,Gilts,5,0.14,0.04,0.1
+Aviva Insured Funds International Index Tracking S14,Equities  Tracker,6,0.1,0,0.1
+Aviva Insured Funds Invesco Asian S14,Equities,7,0.95,0.2,0.75
+Aviva Insured Funds Invesco Corporate Bond S14,Corporate bonds  Global bonds,2,0.55,0.05,0.5
+Aviva Insured Funds Invesco Distribution S14,Mixed assets,3,0.85,0.17,0.68
+Aviva Insured Funds Invesco Monthly Income Plus S14,Corporate bonds  Global bonds,3,0.67,0.17,0.5
+Aviva Insured Funds Investment Pathway 1 S14,Mixed assets,3,0.15,0,0.15
+Aviva Insured Funds Investment Pathway 2 S14,Corporate bonds  Gilts,4,0.15,0,0.15
+Aviva Insured Funds Investment Pathway 3 S14,Mixed assets,3,0.15,0,0.15
+Aviva Insured Funds Investment Pathway 4 S14,Mixed assets,2,0.15,0,0.15
+Aviva Insured Funds Janus Henderson Cautious Managed S14,Mixed assets,4,0.8,0.15,0.65
+Aviva Insured Funds Janus Henderson European Mid And Large Cap S14,Equities,6,0.91,0.16,0.75
+Aviva Insured Funds Janus Henderson European Selected Opportunities S14,Equities,6,0.9,0.15,0.75
+Aviva Insured Funds Janus Henderson UK Smaller Companies S14,Equities,7,0.85,0.1,0.75
+Aviva Insured Funds Japan Core Equity – ESG enhanced S14,Equities  Ethical,6,0.17,0.02,0.15
+Aviva Insured Funds JPM Emerging Markets S14,Equities,7,0.83,0.08,0.75
+Aviva Insured Funds JPM US Select S14,Equities,6,0.55,0.05,0.5
+Aviva Insured Funds Jupiter Ecology S14,Equities  Ethical,6,0.77,0.02,0.75
+Aviva Insured Funds Jupiter Merlin Balanced Portfolio S14,Mixed assets,4,1.21,0.46,0.75
+Aviva Insured Funds Jupiter Merlin Income Portfolio S14,Mixed assets,4,1.09,0.34,0.75
+Aviva Insured Funds Jupiter Merlin Worldwide Portfolio S14,Equities,4,1.31,0.56,0.75
+Aviva Insured Funds Liontrust Sustainable Future Corporate Bond S14,Corporate bonds  Ethical,4,0.35,0.05,0.3
+Aviva Insured Funds Liontrust Sustainable Future European Growth S14,Equities  Ethical,6,0.5,0.05,0.45
+Aviva Insured Funds Liontrust Sustainable Future Global Growth S14,Equities  Ethical,6,0.5,0.05,0.45
+Aviva Insured Funds Liontrust Sustainable Future Managed Growth S14,Equities  Ethical,6,0.5,0.05,0.45
+Aviva Insured Funds Liontrust Sustainable Future Managed S14,Equities  Ethical,5,0.52,0.07,0.45
+Aviva Insured Funds Liontrust Sustainable Future UK Growth S14,Equities  Ethical,7,0.56,0.11,0.45
+Aviva Insured Funds Liontrust UK Ethical S14,Equities  Ethical,7,0.58,0.18,0.4
+Aviva Insured Funds Long Gilt S14,Gilts  Tracker,5,0.17,0.07,0.1
+Aviva Insured Funds M&G Corporate Bond S14,Corporate bonds  Global bonds,3,0.5,0,0.5
+Aviva Insured Funds M&G Global Dividend S14,Equities,6,0.47,0,0.47
+Aviva Insured Funds M&G Global Themes S14,Equities,6,0.57,0,0.57
+Aviva Insured Funds M&G Optimal Income S14,Corporate bonds  Gilts  Global bonds,3,0.57,0,0.57
+Aviva Insured Funds M&G Strategic Corporate Bond S14,Corporate bonds  Global bonds,3,0.45,0.02,0.43
+Aviva Insured Funds Man GLG Japan CoreAlpha S14,Equities,7,0.9,0.15,0.75
+Aviva Insured Funds Managed High Income S14,Corporate bonds  Global bonds,3,0.32,0.02,0.3
+Aviva Insured Funds Mixed Investment (0-35% Shares) S14,Mixed assets,2,0.14,0.04,0.1
+Aviva Insured Funds Mixed Investment (20-60% Shares) S14,Mixed assets,3,0.13,0.03,0.1
+Aviva Insured Funds Mixed Investment (40-85% Shares) S14,Mixed assets,4,0.18,0.03,0.15
+Aviva Insured Funds Multi-asset Core Fund I S14,Mixed assets,2,0.15,0,0.15
+Aviva Insured Funds Multi-asset Core Fund II S14,Mixed assets,3,0.15,0,0.15
+Aviva Insured Funds Multi-asset Core Fund III S14,Mixed assets,4,0.15,0,0.15
+Aviva Insured Funds Multi-asset Core Fund IV S14,Mixed assets,4,0.15,0,0.15
+Aviva Insured Funds Multi-asset Core Fund V S14,Mixed assets,5,0.15,0,0.15
+Aviva Insured Funds Multi-asset Plus Fund I S14,Mixed assets,2,0.46,0.16,0.3
+Aviva Insured Funds Multi-asset Plus Fund II S14,Mixed assets,3,0.41,0.11,0.3
+Aviva Insured Funds Multi-asset Plus Fund III S14,Mixed assets,4,0.41,0.11,0.3
+Aviva Insured Funds Multi-asset Plus Fund IV S14,Mixed assets,4,0.39,0.09,0.3
+Aviva Insured Funds Multi-asset Plus Fund V S14,Mixed assets,5,0.41,0.11,0.3
+Aviva Insured Funds Multi-Manager 20-60% Shares S14,Mixed assets,3,0.87,0.42,0.45
+Aviva Insured Funds Multi-Manager 40-85% Shares S14,Mixed assets,4,0.97,0.52,0.45
+Aviva Insured Funds Multi-Manager Flexible S14,Mixed assets,5,0.99,0.54,0.45
+Aviva Insured Funds Multi-Strategy Target Return S14,Mixed assets  Specialist/Other,3,0.81,0.11,0.7
+Aviva Insured Funds Ninety One Asia Pacific Franchise S14,Equities,7,0.9,0.15,0.75
+Aviva Insured Funds Ninety One Emerging Markets Local Currency Debt S14,Global bonds,4,0.97,0.22,0.75
+Aviva Insured Funds Ninety One Global Environment S14,Equities  Ethical,7,0.86,0.11,0.75
+Aviva Insured Funds Ninety One Global Income Opportunities S14,Mixed assets,4,0.78,0.13,0.65
+Aviva Insured Funds North America Core Equity – ESG enhanced S14,Equities  Ethical,6,0.16,0.01,0.15
+Aviva Insured Funds Pacific Equity S14,Equities,6,0.24,0.04,0.2
+Aviva Insured Funds Property S14,Property,4,0.31,0.01,0.3
+Aviva Insured Funds Rathbone Global Opportunities S14,Equities,6,0.77,0.02,0.75
+Aviva Insured Funds Schroder Asian Alpha Plus S14,Equities,7,0.92,0.17,0.75
+Aviva Insured Funds Schroder European Recovery S14,Equities,7,0.96,0.21,0.75
+Aviva Insured Funds Schroder Global Cities Real Estate S14,Property,6,0.9,0.15,0.75
+Aviva Insured Funds Schroder Global Emerging Markets S14,Equities,7,0.97,0.22,0.75
+Aviva Insured Funds Schroder Tokyo S14,Equities,6,0.85,0.1,0.75
+Aviva Insured Funds Schroder UK Alpha Plus S14,Equities,6,0.69,0,0.69
+Aviva Insured Funds Schroder US Mid Cap S14,Equities,7,0.89,0.14,0.75
+Aviva Insured Funds Smooth Managed Fund 2 S14,Mixed assets,3,0.65,0,0.65
+Aviva Insured Funds Smooth Managed Fund S14,Mixed assets,4,0.65,0,0.65
+Aviva Insured Funds Stewart Investors Asia Pacific Leaders Sustainability S14,Equities,5,0.84,0.04,0.8
+Aviva Insured Funds Strategic Bond S14,Corporate bonds  Gilts  Global bonds,3,0.33,0.03,0.3
+Aviva Insured Funds Sustainable Stewardship Bond S14,Corporate bonds  Global bonds  Ethical,3,0.25,0.02,0.23
+Aviva Insured Funds Sustainable Stewardship International Equity S14,Equities  Ethical,5,0.25,0.02,0.23
+Aviva Insured Funds Sustainable Stewardship Managed S14,Mixed assets  Ethical,4,0.25,0.02,0.23
+Aviva Insured Funds Sustainable Stewardship UK Equity Income S14,Equities  Ethical,6,0.29,0.06,0.23
+Aviva Insured Funds Sustainable Stewardship UK Equity S14,Equities  Ethical,6,0.24,0.01,0.23
+Aviva Insured Funds UK Core Equity – ESG enhanced S14,Equities  Ethical,6,0.16,0.01,0.15
+Aviva Insured Funds UK Equity Income S14,Equities,6,0.42,0.02,0.4
+Aviva Insured Funds UK Equity S14,Equities,6,0.31,0.01,0.3
+Aviva Insured Funds UK Index Tracking S14,Equities  Tracker,5,0.1,0,0.1
+Aviva Insured Funds Universal 2024 Retirement S14,Mixed assets,2,0.35,0,0.35
+Aviva Insured Funds Universal 2025 Retirement S14,Mixed assets,2,0.35,0,0.35
+Aviva Insured Funds Universal 2026 Retirement S14,Mixed assets,2,0.35,0,0.35
+Aviva Insured Funds Universal 2027 Retirement S14,Mixed assets,3,0.35,0,0.35
+Aviva Insured Funds Universal 2028 Retirement S14,Mixed assets,3,0.35,0,0.35
+Aviva Insured Funds Universal 2029 Retirement S14,Mixed assets,3,0.35,0,0.35
+Aviva Insured Funds Universal 2030 Retirement S14,Mixed assets,3,0.35,0,0.35
+Aviva Insured Funds Universal 2031 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2032 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2033 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2034 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2035 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2036 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2037 Retirement S14,Mixed assets,4,0.35,0,0.35
+Aviva Insured Funds Universal 2038 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2039 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2040 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2041 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2042 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2043 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2044 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2045 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2046 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2047 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2048 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2049 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2050 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2051 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2052 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2053 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2054 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2055 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2056 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2057 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2058 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2059 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2060 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2061 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2062 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2063 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2064 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2065 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2066 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2067 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2068 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2069 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2070 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2071 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2072 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2073 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2074 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2075 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2076 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2077 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2078 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2079 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal 2080 Retirement S14,Mixed assets,5,0.35,0,0.35
+Aviva Insured Funds Universal Retirement S14,Mixed assets,2,0.35,0,0.35
+Aviva Insured Funds US Equity S14,Equities  Tracker,6,0.11,0.01,0.1
+Aviva Pension abrdn Diversified Growth and Income EP / EP S1,Mixed assets,4,0,,
+Aviva Pension abrdn Diversified Growth and Income EP S3,Mixed assets,4,0,,
+Aviva Pension abrdn Diversified Growth and Income FP,Mixed assets,4,0.95,,
+Aviva Pension abrdn Diversified Growth and Income IE/XE,Mixed assets,4,0,,
+Aviva Pension abrdn UK Smaller Companies AP,Equities,7,0,,
+Aviva Pension Aegon Ethical Equity EP / EP S1,Equities  Ethical,6,0,,
+Aviva Pension Aegon Ethical Equity EP S3,Equities  Ethical,6,0,,
+Aviva Pension Allianz Gilt Yield EP / EP S1,Gilts,4,0,,
+Aviva Pension Allianz Gilt Yield EP S3,Gilts,4,0,,
+Aviva Pension Artemis Income AP,Equities,6,0,,
+Aviva Pension Artemis Income EP / EP S1,Equities,6,0,,
+Aviva Pension Artemis Income EP S3,Equities,6,0,,
+Aviva Pension Artemis Income FP,Equities,6,0.6,,
+Aviva Pension Artemis Income IE/XE,Equities,6,0,,
+Aviva Pension Artemis Strategic Bond AP,Corporate bonds,3,0,,
+Aviva Pension Artemis Strategic Bond FP,Corporate bonds,3,0.54,,
+Aviva Pension Artemis UK Special Situations AP,Equities,7,0,,
+Aviva Pension Artemis UK Special Situations EP / EP S1,Equities,7,0,,
+Aviva Pension Artemis UK Special Situations EP S3,Equities,7,0,,
+Aviva Pension Artemis UK Special Situations FP,Equities,7,0.76,,
+Aviva Pension Artemis UK Special Situations IE/XE,Equities,7,0,,
+Aviva Pension Asia Pacific ex Japan Equities AP,Equities,6,0,,
+Aviva Pension Asia Pacific ex Japan Equities XE,Equities,6,0,,
+Aviva Pension Asian Growth NMP,Equities,6,0,,
+Aviva Pension AXA Ethical Distribution EP,Mixed asset  Ethical,5,0,,
+Aviva Pension AXA Ethical Distribution EP S3,Mixed asset  Ethical,5,0,,
+Aviva Pension AXA Ethical Distribution XE,Mixed asset  Ethical,5,0,,
+Aviva Pension AXA Framlington American Growth AP,Equities,7,0,,
+Aviva Pension AXA Framlington American Growth AP,Equities,7,0,,
+Aviva Pension AXA Framlington Global Sustainable Managed AP,Mixed assets,5,0,,
+Aviva Pension AXA Framlington Global Sustainable Managed AP,Mixed assets,5,0,,
+Aviva Pension AXA Framlington Global Sustainable Managed EP / EP S1,Mixed assets,5,0,,
+Aviva Pension AXA Framlington Global Sustainable Managed EP S3,Mixed assets,5,0,,
+Aviva Pension AXA Framlington Global Sustainable Managed FP,Mixed assets,5,0.82,,
+Aviva Pension AXA Framlington Global Sustainable Managed XE,Mixed assets,5,0,,
+Aviva Pension AXA Framlington UK Select Opportunities AP,Equities,6,0,,
+Aviva Pension AXA Framlington UK Select Opportunities EP / EP S1,Equities,6,0,,
+Aviva Pension AXA Framlington UK Select Opportunities EP S3,Equities,6,0,,
+Aviva Pension AXA Framlington UK Select Opportunities FP,Equities,6,0.81,,
+Aviva Pension AXA Framlington UK Select Opportunities IE/XE,Equities,6,0,,
+Aviva Pension AXA Framlington UK Smaller Companies AP,Equities,7,0,,
+Aviva Pension AXA Global High Yield AP,Global bonds,3,0,,
+Aviva Pension AXA Global High Yield XE,Global bonds,3,0,,
+Aviva Pension Baillie Gifford American AP,Equities,7,0,,
+Aviva Pension Baillie Gifford American FP,Equities,7,0.47,,
+Aviva Pension Baillie Gifford American XE,Equities,7,0,,
+Aviva Pension Baillie Gifford Emerging Markets Leading Companies EP / EP S1,Equities,7,0,,
+Aviva Pension Baillie Gifford Emerging Markets Leading Companies EP S3,Equities,7,0,,
+Aviva Pension Baillie Gifford High Yield Bond FP,Corporate bonds,4,0.37,,
+Aviva Pension Baillie Gifford High Yield Bond XE,Corporate bonds,4,0,,
+Aviva Pension Baillie Gifford International EP / EP S1,Equities,7,0,,
+Aviva Pension Baillie Gifford International EP S3,Equities,7,0,,
+Aviva Pension Baillie Gifford International FP,Equities,7,0.23,,
+Aviva Pension Baillie Gifford International XE,Equities,7,0,,
+Aviva Pension Baillie Gifford Investment Grade Bond EP / EP S1,Corporate bonds,3,0,,
+Aviva Pension Baillie Gifford Investment Grade Bond EP S3,Corporate bonds,3,0,,
+Aviva Pension Baillie Gifford Japanese EP / EP S1,Equities,6,0,,
+Aviva Pension Baillie Gifford Japanese EP S3,Equities,6,0,,
+Aviva Pension Baillie Gifford Japanese FP,Equities,6,0.47,,
+Aviva Pension Baillie Gifford Japanese IE/XE,Equities,6,0,,
+Aviva Pension Baillie Gifford Long Term Global Growth Investment FP,Equities,7,0.64,,
+Aviva Pension Baillie Gifford Managed AP,Mixed assets,5,0,,
+Aviva Pension Baillie Gifford Managed AP / XE,Mixed assets,5,0,,
+Aviva Pension Baillie Gifford Managed EP,Mixed assets  Ethical,5,0,,
+Aviva Pension Baillie Gifford Managed EP / EP S1,Mixed assets,5,0,,
+Aviva Pension Baillie Gifford Managed EP S2,Mixed assets,5,0,,
+Aviva Pension Baillie Gifford Managed EP S3,Mixed assets,5,0,,
+Aviva Pension Baillie Gifford Managed FP,Mixed assets,5,0.23,,
+Aviva Pension Baillie Gifford Managed IE/XE,Mixed assets,5,0,,
+Aviva Pension Baillie Gifford UK Equity Alpha AP,Equities,7,0,,
+Aviva Pension Baillie Gifford UK Equity Core FP,Equities,6,0.34,,
+Aviva Pension Baillie Gifford UK Equity Core IE/XE,Equities,6,0,,
+Aviva Pension Balanced Multi-Asset Fund FP,Mixed assets,4,0,,
+Aviva Pension BlackRock (30:70) Currency Hedged Global Equity Index Tracker EP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock (30:70) Currency Hedged Global Equity Index Tracker FP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock (30:70) Currency Hedged Global Equity Index Tracker IE/XE,Equities  Tracker,6,0,,
+Aviva Pension BlackRock (40:60) Global Equity Index Tracker FP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (50:50) Global Equity Index Tracker AP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (50:50) Global Equity Index Tracker EP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (50:50) Global Equity Index Tracker EP S3,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (50:50) Global Equity Index Tracker FP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (50:50) Global Equity Index Tracker IE/XE,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (60:40) Global Equity Index Tracker AP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (60:40) Global Equity Index Tracker EP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (60:40) Global Equity Index Tracker EP S2,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (60:40) Global Equity Index Tracker EP S3,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (60:40) Global Equity Index Tracker FP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (60:40) Global Equity Index Tracker IE/XE,Equities  Tracker,5,0,,
+Aviva Pension BlackRock (70:30) Global Equity Index (Aquila C) IE/XE,Equities  Tracker,5,0,,
+Aviva Pension BlackRock All Stocks UK Gilt Index Tracker FP,Gilts  Tracker,3,0,,
+Aviva Pension BlackRock All Stocks UK Gilt Index Tracker XE,Gilts  Tracker,3,0,,
+Aviva Pension BlackRock Consensus AP,Mixed assets  Tracker,4,0,,
+Aviva Pension BlackRock Consensus EP,Mixed assets  Tracker,4,0,,
+Aviva Pension BlackRock Consensus EP S2,Mixed assets  Tracker,4,0,,
+Aviva Pension BlackRock Consensus EP S3,Mixed assets  Tracker,4,0,,
+Aviva Pension BlackRock Consensus FP,Mixed assets  Tracker,4,0,,
+Aviva Pension BlackRock Consensus IE/XE,Mixed assets  Tracker,4,0,,
+Aviva Pension BlackRock Corporate Bond All Stocks Index Tracker EP,Corporate bonds  Tracker,3,0,,
+Aviva Pension BlackRock Corporate Bond All Stocks Index Tracker FP,Corporate bonds  Tracker,3,0,,
+Aviva Pension BlackRock Corporate Bond All Stocks Index Tracker IE / XE,Corporate bonds  Tracker,3,0,,
+Aviva Pension BlackRock DC Diversified Growth FP,Mixed assets,3,0.61,,
+Aviva Pension BlackRock DC Diversified Growth IE,Mixed assets,3,0,,
+Aviva Pension BlackRock Developed World Fossil Fuel Screened Index FP,Equities  Ethical  Tracker,6,0.07,,
+Aviva Pension BlackRock Developed World Fossil Fuel Screened Index XE,Equities  Ethical  Tracker,6,0,,
+Aviva Pension BlackRock Emerging Markets Index IE,Equities  Tracker,7,0,,
+Aviva Pension BlackRock Emerging Markets Index Tracker EP / EP S1,Equities  Tracker,7,0,,
+Aviva Pension BlackRock Emerging Markets Index Tracker EP S3,Equities  Tracker,7,0,,
+Aviva Pension BlackRock Emerging Markets Index Tracker FP,Equities  Tracker,7,0.26,,
+Aviva Pension BlackRock Emerging Markets Index Tracker XE,Equities  Tracker,7,0,,
+Aviva Pension BlackRock European Equity Index Tracker AP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock European Equity Index Tracker EP / EP S1,Equities  Tracker,6,0,,
+Aviva Pension BlackRock European Equity Index Tracker EP S3,Equities  Tracker,6,0,,
+Aviva Pension BlackRock European Equity Index Tracker FP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock European Equity Index Tracker IE/XE,Equities  Tracker,6,0,,
+Aviva Pension BlackRock Gold and General AP,Specialist / Other,7,0,,
+Aviva Pension BlackRock Gold and General EP / EP S1,Specialist / Other,7,0,,
+Aviva Pension BlackRock Gold and General EP S3,Specialist / Other,7,0,,
+Aviva Pension BlackRock Gold and General IE/XE,Specialist / Other,7,0,,
+Aviva Pension BlackRock ICS Sterling Liquidity EP,Cash/Money market,1,0,,
+Aviva Pension BlackRock ICS Sterling Liquidity EP S1 / EP S2,Cash/Money market,1,0,,
+Aviva Pension BlackRock ICS Sterling Liquidity EP S3,Cash/Money market,1,0,,
+Aviva Pension BlackRock ICS Sterling Liquidity IE / XE,Cash/Money market,1,0,,
+Aviva Pension BlackRock Japanese Equity Index Tracker EP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock Japanese Equity Index Tracker EP S3,Equities  Tracker,6,0,,
+Aviva Pension BlackRock Japanese Equity Index Tracker FP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock Japanese Equity Index Tracker IE/XE,Equities  Tracker,6,0,,
+Aviva Pension BlackRock Life Balanced Growth AP,Mixed assets,5,0,,
+Aviva Pension BlackRock Market Advantage FP,Specialist / Other,3,0.22,,
+Aviva Pension BlackRock Market Advantage XE,Specialist / Other,3,0,,
+Aviva Pension BlackRock Over 15 Year Corporate Bond Index Tracker EP / EP S1,Corporate bonds  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Corporate Bond Index Tracker EP S3,Corporate bonds  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Corporate Bond Index Tracker FP,Corporate bonds  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Corporate Bond Index Tracker IE/XE,Corporate bonds  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Gilt Index Tracker AP,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Gilt Index Tracker EP,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Gilt Index Tracker EP S3,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Gilt Index Tracker FP,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 15 Year Gilt Index Tracker IE/XE,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 5 Year Index-Linked Gilt Index Tracker AP,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 5 Year Index-Linked Gilt Index Tracker EP,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 5 Year Index-Linked Gilt Index Tracker EP / EP S1,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 5 Year Index-Linked Gilt Index Tracker EP S3,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 5 Year Index-Linked Gilt Index Tracker FP,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Over 5 Year Index-Linked Gilt Index Tracker IE/XE,Gilts  Tracker,5,0,,
+Aviva Pension BlackRock Overseas Bond Index Tracker FP,Global bonds  Tracker,4,0,,
+Aviva Pension BlackRock Overseas Bond Index Tracker IE,Global bonds  Tracker,4,0,,
+Aviva Pension BlackRock Overseas Consensus Equity EP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock Overseas Consensus Equity EP S1,Equities  Tracker,5,0,,
+Aviva Pension BlackRock Overseas Consensus Equity EP S3/IE/XE,Equities  Tracker,5,0,,
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker EP,Equities  Tracker,7,0,,
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker FP,Equities  Tracker,7,0,,
+Aviva Pension BlackRock Pacific Rim Equity Index Tracker IE/XE,Equities  Tracker,7,0,,
+Aviva Pension BlackRock Sterling Liquidity FP,Cash/Money market,1,0,,
+Aviva Pension BlackRock Sterling Liquidity IE/XE,Cash/Money market,1,0,,
+Aviva Pension BlackRock UK Equity FP,Equities,6,0.22,,
+Aviva Pension BlackRock UK Equity Index Tracker AP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock UK Equity Index Tracker EP / EP S1,Equities  Tracker,5,0,,
+Aviva Pension BlackRock UK Equity Index Tracker EP S2,Equities  Tracker,5,0,,
+Aviva Pension BlackRock UK Equity Index Tracker EP S3,Equities  Tracker,5,0,,
+Aviva Pension BlackRock UK Equity Index Tracker FP,Equities  Tracker,5,0,,
+Aviva Pension BlackRock UK Equity Index Tracker IE/XE,Equities  Tracker,5,0,,
+Aviva Pension BlackRock UK Smaller Companies FP,Equities,7,0.9,,
+Aviva Pension BlackRock UK Smaller Companies IE/XE,Equities,7,0,,
+Aviva Pension BlackRock UK Special Situations FP,Equities,6,0.9,,
+Aviva Pension BlackRock US Equity Index Tracker AP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock US Equity Index Tracker EP / EP S1,Equities  Tracker,6,0,,
+Aviva Pension BlackRock US Equity Index Tracker EP S3,Equities  Tracker,6,0,,
+Aviva Pension BlackRock US Equity Index Tracker FP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock US Equity Index Tracker IE/XE,Equities  Tracker,6,0,,
+Aviva Pension BlackRock World EP,Equities,5,0,,
+Aviva Pension BlackRock World ESG Insights Equity FP,Equities  Ethical,6,0.08,,
+Aviva Pension BlackRock World ESG Insights Equity XE,Equities  Ethical,6,0,,
+Aviva Pension BlackRock World ex UK Equity Index Tracker AP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock World ex UK Equity Index Tracker EP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock World ex UK Equity Index Tracker FP,Equities  Tracker,6,0,,
+Aviva Pension BlackRock World ex UK Equity Index Tracker IE/XE,Equities  Tracker,6,0,,
+Aviva Pension BlackRock World IE / XE,Equities,5,0,,
+Aviva Pension BNY Mellon Global Dynamic Bond FP,Equities,2,0.39,,
+Aviva Pension BNY Mellon Global Equity AP,Equities,5,0,,
+Aviva Pension BNY Mellon Global Equity FP,Equities,5,0.47,,
+Aviva Pension BNY Mellon Global Equity IE/XE,Equities,5,0,,
+Aviva Pension BNY Mellon Global Income EP / EP S1,Equities,5,0,,
+Aviva Pension BNY Mellon Global Income EP S3,Equities,5,0,,
+Aviva Pension BNY Mellon International Bond AP,Global bonds,3,0,,
+Aviva Pension BNY Mellon International Bond FP,Global bonds,3,0.27,,
+Aviva Pension BNY Mellon Long-Term Global Equity EP / EP S1,Equities,5,0,,
+Aviva Pension BNY Mellon Long-Term Global Equity EP S3,Equities,5,0,,
+Aviva Pension BNY Mellon Long-Term Global Equity FP,Equities,5,0.67,,
+Aviva Pension BNY Mellon Long-Term Global Equity XE,Equities,5,0,,
+Aviva Pension BNY Mellon Multi-Asset Balanced FP,Mixed assets,4,0.31,,
+Aviva Pension BNY Mellon Multi-Asset Diversified Return AP,Specialist / Other,4,0,,
+Aviva Pension BNY Mellon Multi-Asset Diversified Return EP / EP S1,Specialist / Other,4,0,,
+Aviva Pension BNY Mellon Multi-Asset Diversified Return EP S3,Specialist / Other,4,0,,
+Aviva Pension BNY Mellon Multi-Asset Global Balanced FP,Mixed assets,4,0.4,,
+Aviva Pension BNY Mellon Multi-Asset Growth AP,Mixed assets,5,0,,
+Aviva Pension BNY Mellon Real Return FP,Specialist / Other,4,0.88,,
+Aviva Pension BNY Mellon UK Equity FP,Equities,5,0.32,,
+Aviva Pension BNY Mellon UK Income AP,Equities,6,0,,
+Aviva Pension BNY Mellon UK Income FP,Equities,6,0.49,,
+Aviva Pension Cash AP,Cash/Money market,1,0,,
+Aviva Pension Cash AP / XE,Cash/Money market,1,0,,
+Aviva Pension Cash FP,Cash/Money market,1,0,,
+Aviva Pension Cash LMP / FPP,Cash/Money market,1,0,,
+Aviva Pension Cautious Managed FP,Mixed assets,3,0,,
+Aviva Pension Cautious Managed LMP,Mixed assets,3,0,,
+Aviva Pension Cautious Multi Asset Fund FP,Mixed assets,3,0,,
+Aviva Pension Climate Transition Global Credit FP,Corporate bonds  Global bonds  Ethical,3,0.5,,
+Aviva Pension Climate Transition Global Credit XE,Corporate bonds  Global bonds  Ethical,3,0,,
+Aviva Pension Climate Transition Global Equity FP,Equities  Ethical,6,0.85,,
+Aviva Pension Climate Transition Global Equity XE,Equities  Ethical,6,0.85,,
+Aviva Pension Close FTSE TechMARK EP,Specialist / Other,7,1.02,,
+Aviva Pension Close FTSE TechMARK IE/XE,Specialist / Other,7,0,,
+Aviva Pension CT European Select EP,Equities,6,0,,
+Aviva Pension CT European Select FP,Equities,6,0.49,,
+Aviva Pension CT European Select IE/XE,Equities,6,0,,
+Aviva Pension CT Global Equity Income FP,Equities,5,0.69,,
+Aviva Pension CT Global Equity Income XE,Equities,5,0.69,,
+Aviva Pension CT Global Select AP,Equities,5,0,,
+Aviva Pension CT Pensions Property EP / EP S1,Property,4,0,,
+Aviva Pension CT Pensions Property EP S2,Property,4,0,,
+Aviva Pension CT Pensions Property EP S3,Property,4,0,,
+Aviva Pension CT Pensions Property IE/XE,Property,4,0,,
+Aviva Pension CT Responsible UK Equity Growth AP,Equities  Ethical,6,0,,
+Aviva Pension CT UK Equity Income EP / EP S1,Equities,6,0,,
+Aviva Pension CT UK Equity Income EP S3,Equities,6,0,,
+Aviva Pension CT UK Equity Income FP,Equities,6,0.51,,
+Aviva Pension CT UK Equity Income IE/XE,Equities,6,0,,
+Aviva Pension CT UK Social Bond FP,Gilts  Corporate bonds,2,0.31,,
+Aviva Pension Deposit NMP,Cash/Money market,1,0,,
+Aviva Pension Equity EP,Equities,6,0,,
+Aviva Pension Equity EP S1,Equities,6,0,,
+Aviva Pension Equity EP S2,Equities,6,0,,
+Aviva Pension Equity EP S3,Equities,6,0,,
+Aviva Pension Equity IE / XE,Equities,6,0,,
+Aviva Pension Ethical Distribution AP,Mixed asset  Ethical,5,0,,
+Aviva Pension Ethical Distribution AP / XE,Mixed asset  Ethical,5,0,,
+Aviva Pension Europe ex UK Equities AP,Equities,6,0,,
+Aviva Pension Europe ex UK Equities AP / XE,Equities,6,0,,
+Aviva Pension European FP,Equities,6,0,,
+Aviva Pension European FPP,Equities,6,0,,
+Aviva Pension European NMP,Equities,6,0,,
+Aviva Pension Far East AP / XE,Equities,6,0,,
+Aviva Pension Far Eastern Growth NMP,Equities,6,0,,
+Aviva Pension Fidelity Asia IE/XE,Equities,7,0,,
+Aviva Pension Fidelity Special Situations AP,Equities,7,0,,
+Aviva Pension Fidelity Special Situations EP / EP S1 / IE / XE,Equities,7,0,,
+Aviva Pension Fidelity Special Situations EP S3,Equities,7,0,,
+Aviva Pension Fidelity Sustainable MoneyBuilder Income AP,Corporate bonds,3,0,,
+Aviva Pension Fidelity Sustainable MoneyBuilder Income EP / EP S1,Corporate bonds,3,0,,
+Aviva Pension Fidelity Sustainable MoneyBuilder Income EP S3,Corporate bonds,3,0,,
+Aviva Pension Fidelity Sustainable MoneyBuilder Income FP,Corporate bonds,3,0.46,,
+Aviva Pension Fidelity Sustainable MoneyBuilder Income XE,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest (ex NM) NMP,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest AP / XE,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest EP / EP S1,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest EP S2,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest EP S3,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest FP,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest IE/XE,Corporate bonds,3,0,,
+Aviva Pension Fixed Interest LMP / FPP,Corporate bonds,3,0,,
+Aviva Pension Global Distribution AP,Specialist / Other,4,0,,
+Aviva Pension Global Distribution AP / XE,Specialist / Other,4,0,,
+Aviva Pension Global Equities AP,Equities,5,0,,
+Aviva Pension Global Equities AP / XE,Equities,5,0,,
+Aviva Pension Global Equity FP,Equities,5,0,,
+Aviva Pension Global Equity LMP / FPP,Equities,5,0,,
+Aviva Pension Global Managed AP / XE,Mixed assets,5,0,,
+Aviva Pension Guaranteed Deposit LMP,Cash/Money market  Guaranteed,1,0,,
+Aviva Pension Guaranteed Deposit NMP,Cash/Money market  Guaranteed,1,0,,
+Aviva Pension Higher Income AP,Equities,6,0,,
+Aviva Pension Higher Income AP / XE,Equities,6,0,,
+Aviva Pension HSBC Global Sukuk Index FP,Corporate bonds  Global bonds  Tracker,3,0.3,,
+Aviva Pension HSBC Global Sukuk Index XE,Corporate bonds  Global bonds  Tracker,3,0.3,,
+Aviva Pension HSBC Islamic Global Equity Index AP,Equities  Tracker,5,0,,
+Aviva Pension HSBC Islamic Global Equity Index EP,Equities  Tracker,6,0,,
+Aviva Pension HSBC Islamic Global Equity Index EP S3,Equities  Tracker,6,0,,
+Aviva Pension HSBC Islamic Global Equity Index FP,Equities  Tracker,6,0.3,,
+Aviva Pension HSBC Islamic Global Equity Index IE/XE,Equities  Tracker,6,0,,
+Aviva Pension HSBC Shariah Multi Asset FP,Mixed assets  Specialist/Other,5,0.35,,
+Aviva Pension HSBC Shariah Multi Asset XE,Mixed assets  Specialist/Other,5,0.35,,
+Aviva Pension Income Accumulation NMP,Equities,7,0,,
+Aviva Pension Index-Linked Acc EP,Gilts,5,0,,
+Aviva Pension Index-Linked AP,Gilts,5,0,,
+Aviva Pension Index-Linked AP / XE,Gilts,5,0,,
+Aviva Pension Index-Linked EP,Gilts,5,0,,
+Aviva Pension Index-Linked EP / EP S1,Gilts,5,0,,
+Aviva Pension Index-Linked EP S2,Gilts,5,0,,
+Aviva Pension Index-Linked EP S3,Gilts,5,0,,
+Aviva Pension Index-Linked FP,Gilts,5,0.02,,
+Aviva Pension Index-Linked FPP,Gilts,5,0,,
+Aviva Pension Index-Linked IE/XE,Gilts,5,0,,
+Aviva Pension Insight Broad Opportunities FP,Specialist / Other,3,0.71,,
+Aviva Pension International EP,Equities,5,0,,
+Aviva Pension International IE/XE,Equities,5,0,,
+Aviva Pension International NMP,Equities,5,0,,
+Aviva Pension Invesco Asian AP,Equities,7,0,,
+Aviva Pension Invesco Corporate Bond AP,Corporate bonds,2,0,,
+Aviva Pension Invesco Corporate Bond EP / EP S1,Corporate bonds,2,0,,
+Aviva Pension Invesco Corporate Bond EP S3,Corporate bonds,2,0,,
+Aviva Pension Invesco Corporate Bond FP,Corporate bonds,2,0.5,,
+Aviva Pension Invesco Corporate Bond IE/XE,Corporate bonds,2,0,,
+Aviva Pension Invesco Distribution AP,Mixed assets,3,0,,
+Aviva Pension Invesco Distribution FP,Mixed assets,3,0.77,,
+Aviva Pension Invesco Global Smaller Companies EP / EP S1,Equities,7,0,,
+Aviva Pension Invesco Global Smaller Companies EP S3,Equities,7,0,,
+Aviva Pension Invesco Global Smaller Companies IE/XE,Equities,7,0,,
+Aviva Pension Invesco Japanese Equity Advantage (UK) AP,Equities,6,0,,
+Aviva Pension Invesco Monthly Income Plus AP,Corporate bonds,3,0,,
+Aviva Pension Invesco Monthly Income Plus EP / EP S1,Corporate bonds,3,0,,
+Aviva Pension Invesco Monthly Income Plus EP S3 / IE,Corporate bonds,3,0,,
+Aviva Pension Investment Pathway 1 AP,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 1 EP,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 1 FP,Mixed assets,3,0.1,,
+Aviva Pension Investment Pathway 1 XE,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 2 AP,Corporate bonds  Gilts,4,0,,
+Aviva Pension Investment Pathway 2 EP,Corporate bonds  Gilts,4,0,,
+Aviva Pension Investment Pathway 2 FP,Corporate bonds  Gilts,4,0.1,,
+Aviva Pension Investment Pathway 2 XE,Corporate bonds  Gilts,4,0.1,,
+Aviva Pension Investment Pathway 3 AP,Mixed assets,4,0,,
+Aviva Pension Investment Pathway 3 EP,Mixed assets,3,0,,
+Aviva Pension Investment Pathway 3 FP,Mixed assets,3,0.1,,
+Aviva Pension Investment Pathway 3 XE,Mixed assets,3,0.1,,
+Aviva Pension Investment Pathway 4 AP,Mixed assets,2,0,,
+Aviva Pension Investment Pathway 4 EP,Mixed assets,2,0,,
+Aviva Pension Investment Pathway 4 FP,Mixed assets,2,0.1,,
+Aviva Pension Investment Pathway 4 XE,Mixed assets,2,0.1,,
+Aviva Pension Investment Trust Portfolio LMP,Equities,6,0,,
+Aviva Pension Janus Henderson Cautious Managed AP,Mixed assets,4,0,,
+Aviva Pension Janus Henderson European Selected Opportunities AP,Equities,6,0,,
+Aviva Pension Janus Henderson European Selected Opportunities EP / EP S1,Equities,6,0,,
+Aviva Pension Janus Henderson European Selected Opportunities EP S3,Equities,6,0,,
+Aviva Pension Janus Henderson European Selected Opportunities IE/XE,Equities,6,0,,
+Aviva Pension Janus Henderson UK Smaller Companies FP,Equities,7,0.78,,
+Aviva Pension Janus Henderson UK Smaller Companies XE,Equities,7,0,,
+Aviva Pension Japan Equities AP,Equities,6,0,,
+Aviva Pension Japan Equities AP / XE,Equities,6,0,,
+Aviva Pension JPM Emerging Markets AP,Equities,7,0,,
+Aviva Pension JPM Emerging Markets EP / EP S1,Equities,7,0,,
+Aviva Pension JPM Emerging Markets EP S3 / IE,Equities,7,0.8,,
+Aviva Pension JPM Emerging Markets FP,Equities,7,0.8,,
+Aviva Pension JPM Emerging Markets XE,Equities,7,0,,
+Aviva Pension JPM Natural Resources AP,Specialist / Other,7,0,,
+Aviva Pension JPM Natural Resources EP / EP S1,Specialist / Other,7,0,,
+Aviva Pension JPM Natural Resources EP S3,Specialist / Other,7,0,,
+Aviva Pension JPM Natural Resources FP,Specialist / Other,7,0.83,,
+Aviva Pension JPM UK Equity Growth AP,Equities,6,0,,
+Aviva Pension JPM UK Equity Growth AP/XE,Equities,6,0,,
+Aviva Pension Jupiter Ecology AP,Equities  Ethical,6,0,,
+Aviva Pension Jupiter Ecology IE/XE,Equities  Ethical,6,0,,
+Aviva Pension L&G Infrastructure Index FP,Equities  Tracker,6,0.3,,
+Aviva Pension Lazard Multicap UK Income FP,Equities,6,0.39,,
+Aviva Pension Legal & General (PMC) All Stocks Gilts Index IE,Gilts  Tracker,4,0,,
+Aviva Pension Legal & General (PMC) Cash IE/XE,Cash/Money market,1,0,,
+Aviva Pension Legal & General (PMC) FTSE4Good Developed Equity Index FP,Equities  Ethical  Tracker,5,0.15,,
+Aviva Pension Legal & General (PMC) FTSE4Good Developed Equity Index XE,Equities  Tracker  Ethical,5,0,,
+Aviva Pension Legal & General (PMC) FTSE4Good UK Equity Index FP,Equities  Tracker  Ethical,6,0.2,,
+Aviva Pension Legal & General (PMC) FTSE4Good UK Equity Index XE,Equities  Tracker  Ethical,6,0,,
+Aviva Pension Legal & General (PMC) Future World Annuity Aware FP,Corporate bonds,4,0.01,,
+Aviva Pension Legal & General (PMC) Future World Annuity Aware XE,Corporate bonds,4,0,,
+Aviva Pension Legal & General (PMC) Global Real Estate Equity Index FP,Equities  Property  Tracker,6,0.35,,
+Aviva Pension Legal & General (PMC) North America Equity Index IE,Equities  Tracker,6,0,,
+Aviva Pension Legal & General (PMC) Over 5 Year Index-Linked Gilts Index IE,Gilts  Tracker,5,0,,
+Aviva Pension Legal & General (PMC) Retirement Income Multi Asset XE,Mixed assets  Equities  Corporate bonds,3,0.3,,
+Aviva Pension Legal & General (PMC) Retirement Income Multi-Asset FP,Specialist / Other,3,0.28,,
+Aviva Pension Legal & General (PMC) World (Ex UK) Equity Index IE,Equities  Tracker,6,0,,
+Aviva Pension Legal & General Multi Asset (formerly Consensus) IE/XE,Mixed assets,4,0,,
+Aviva Pension Legal & General UK Property EP / EP S1,Property,4,0,,
+Aviva Pension Legal & General UK Property EP S3,Property,4,0,,
+Aviva Pension LGIM Diversified XE,Mixed assets,4,0,,
+Aviva Pension LGIM Future World Fund FP,Equities,5,0.275,,
+Aviva Pension LGIM Hybrid Property FP,Specialist / Other,5,0.47,,
+Aviva Pension LGIM Hybrid Property XE,Specialist / Other,5,0,,
+Aviva Pension Lifestyle Retirement 2030 AP,Specialist / Other,5,0,,
+Aviva Pension Lifestyle Retirement 2035 AP,Specialist / Other,5,0,,
+Aviva Pension Lifestyle Retirement 2040 AP,Specialist / Other,5,0,,
+Aviva Pension Lifestyle Retirement 2045 AP,Specialist / Other,5,0,,
+Aviva Pension Lifestyle Retirement 2050 AP,Specialist / Other,5,0,,
+Aviva Pension Liontrust MA Explorer 85 AP,Mixed assets,5,0,,
+Aviva Pension M&G Corporate Bond EP / EP S1,Corporate bonds,3,0.85,,
+Aviva Pension M&G Corporate Bond EP S2,Corporate bonds,3,0.9,,
+Aviva Pension M&G Corporate Bond EP S3,Corporate bonds,3,1,,
+Aviva Pension M&G Corporate Bond FP,Corporate bonds,3,0.43,,
+Aviva Pension M&G Corporate Bond IE/XE,Corporate bonds,3,0.43,,
+Aviva Pension M&G Gilt & Fixed Interest Income AP,Gilts,3,0,,
+Aviva Pension M&G Optimal Income FP,Corporate bonds,3,0.57,,
+Aviva Pension M&G Optimal Income XE,Corporate bonds,3,0.57,,
+Aviva Pension M&G Strategic Corporate Bond XE,Global bonds,3,0.33,,
+Aviva Pension Man GLG Japan CoreAlpha IE/XE,Equities,7,0,,
+Aviva Pension Managed (AP) EP,Mixed assets,4,0,,
+Aviva Pension Managed AP,Mixed assets,4,0,,
+Aviva Pension Managed AP / XE,Mixed assets,4,0,,
+Aviva Pension Managed EP S3,Mixed assets,4,0,,
+Aviva Pension Managed FP,Mixed assets,4,0,,
+Aviva Pension Managed LMP / FPP,Mixed assets,4,0,,
+Aviva Pension Managed Mixed EP,Mixed assets,4,0,,
+Aviva Pension Managed NMP,Mixed assets,4,0,,
+Aviva Pension MFS Meridian Global Equity EP,Equities,5,0,,
+Aviva Pension MFS Meridian Global Equity FP,Equities,5,0.62,,
+Aviva Pension MFS Meridian Global Equity IE,Equities,5,0,,
+Aviva Pension Money Market Acc EP,Cash/Money market,1,0,,
+Aviva Pension Money Market EP,Cash/Money market,1,0,,
+Aviva Pension Money Market EP / EP S1,Cash/Money market,1,0,,
+Aviva Pension Money Market EP S2,Cash/Money market,1,0,,
+Aviva Pension Money Market EP S3,Cash/Money market,1,0,,
+Aviva Pension Money Market IE / XE,Cash/Money market,1,0,,
+Aviva Pension Multi Strategy Target Return FP,Specialist / Other,3,0.75,,
+Aviva Pension Multi Strategy Target Return XE,Specialist / Other,3,0,,
+Aviva Pension Multi-Asset Growth Fund FP,Mixed assets,4,0,,
+Aviva Pension Multi-Asset Index Cautious Fund FP,Mixed assets,4,0,,
+Aviva Pension Multi-Asset Index Growth Fund FP,Mixed assets,4,0,,
+Aviva Pension My Future Annuity AP,Corporate bonds  Global bonds  Gilts,4,0,,
+Aviva Pension My Future Annuity EP,Corporate bonds  Global bonds  Gilts,4,0,,
+Aviva Pension My Future Annuity FP,Corporate bonds  Global bonds  Gilts,4,0,,
+Aviva Pension My Future Annuity IE/XE,Corporate bonds  Global bonds  Gilts,4,0,,
+Aviva Pension My Future Cash Lump Sum AP,Gilts  Corporate bonds  Equities,2,0,,
+Aviva Pension My Future Cash Lump Sum FP,Gilts  Corporate bonds,2,0,,
+Aviva Pension My Future Cash Lump Sum XE,Gilts  Corporate bonds,2,0,,
+Aviva Pension My Future Consolidation AP,Mixed assets,3,0,,
+Aviva Pension My Future Consolidation EP S3,Mixed assets,3,0,,
+Aviva Pension My Future Consolidation FP,Mixed assets,3,0,,
+Aviva Pension My Future Consolidation IE/XE,Mixed assets,3,0,,
+Aviva Pension My Future Drawdown AP,Mixed assets,4,0,,
+Aviva Pension My Future Drawdown FP,Mixed assets,4,0,,
+Aviva Pension My Future Drawdown XE,Mixed assets,4,0,,
+Aviva Pension My Future Focus Annuity FP,Corporate bonds  Global bonds  Gilts,4,0.1,,
+Aviva Pension My Future Focus Annuity XE,Corporate bonds  Global bonds  Gilts,4,0,,
+Aviva Pension My Future Focus Cash Lump Sum FP,Gilts  Corporate bonds,2,0.1,,
+Aviva Pension My Future Focus Cash Lump Sum XE,Gilts  Corporate bonds,2,0,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) FP,Mixed assets,2,0.1,,
+Aviva Pension My Future Focus Consolidation (Pre-2024) XE,Mixed assets,2,0,,
+Aviva Pension My Future Focus Consolidation FP,Mixed assets,2,0.1,,
+Aviva Pension My Future Focus Consolidation XE,Mixed assets,2,0.1,,
+Aviva Pension My Future Focus Drawdown FP,Mixed assets,3,0.1,,
+Aviva Pension My Future Focus Drawdown XE,Mixed assets,3,0,,
+Aviva Pension My Future Focus Growth FP,Mixed assets,4,0.1,,
+Aviva Pension My Future Focus Growth XE,Mixed assets,4,0,,
+Aviva Pension My Future Focus Long Term Growth FP,Mixed assets,5,0.1,,
+Aviva Pension My Future Focus Long Term Growth XE,Mixed assets,5,0.1,,
+Aviva Pension My Future Growth AP,Mixed assets,4,0,,
+Aviva Pension My Future Growth FP,Mixed assets,4,0,,
+Aviva Pension My Future Growth IE/XE,Mixed assets,4,0,,
+Aviva Pension Ninety One Global Income Opportunities AP,Mixed assets,4,0,,
+Aviva Pension Ninety One Global Income Opportunities EP / EP S1,Mixed assets,4,0,,
+Aviva Pension Ninety One Global Income Opportunities EP S3,Mixed assets,4,0,,
+Aviva Pension Ninety One Global Income Opportunities FP,Mixed assets,4,0.73,,
+Aviva Pension Ninety One Global Income Opportunities IE/XE,Mixed assets,4,0,,
+Aviva Pension Ninety One UK Special Situations EP / EP S1,Equities,7,0,,
+Aviva Pension Ninety One UK Special Situations EP S3,Equities,7,0,,
+Aviva Pension North America Equities AP,Equities,6,0,,
+Aviva Pension North America Equities AP / XE,Equities,6,0,,
+Aviva Pension North American FP,Equities,6,0,,
+Aviva Pension North American FPP,Equities,6,0,,
+Aviva Pension North American NMP,Equities,6,0,,
+Aviva Pension Overseas (AP) EP,Equities,5,0,,
+Aviva Pension Overseas AP,Equities,5,0,,
+Aviva Pension Overseas AP / XE,Equities,5,0,,
+Aviva Pension Overseas EP S3,Equities,5,0,,
+Aviva Pension Pacific Basin FP,Equities,6,0,,
+Aviva Pension Pacific Basin FPP,Equities,6,0,,
+Aviva Pension Phoenix Wealth Elite Balanced Managed EP / EP S1,Mixed assets,4,0,,
+Aviva Pension Phoenix Wealth Elite Balanced Managed EP S3,Mixed assets,4,0,,
+Aviva Pension Phoenix Wealth Elite Balanced Managed IE/XE,Mixed assets,4,0,,
+Aviva Pension Phoenix Wealth Elite Cautious Managed EP / EP S1,Mixed assets,3,0,,
+Aviva Pension Phoenix Wealth Elite Cautious Managed EP S3,Mixed assets,3,0,,
+Aviva Pension Phoenix Wealth Elite Cautious Managed IE/XE,Mixed assets,3,0,,
+Aviva Pension Phoenix Wealth Elite Defensive Managed EP / EP S1,Mixed assets,3,0,,
+Aviva Pension Phoenix Wealth Elite Defensive Managed EP S3,Mixed assets,3,0,,
+Aviva Pension Phoenix Wealth Elite Defensive Managed IE/XE,Mixed assets,3,0,,
+Aviva Pension Phoenix Wealth Elite Global Equity IE/XE,Equities,5,0,,
+Aviva Pension Phoenix Wealth Elite Stockmarket Managed EP / EP S1,Mixed assets,5,0,,
+Aviva Pension Phoenix Wealth Elite Stockmarket Managed EP S2,Mixed assets,5,0,,
+Aviva Pension Phoenix Wealth Elite Stockmarket Managed EP S3,Mixed assets,5,0,,
+Aviva Pension Phoenix Wealth Elite Stockmarket Managed IE/XE,Mixed assets,5,0,,
+Aviva Pension Premier Miton Responsible UK Equity EP / IE / XE,Equities  Ethical,7,0,,
+Aviva Pension Premier Miton UK Growth EP / EP S1 / IE / XE,Equities,7,0,,
+Aviva Pension Pre-retirement Fixed Interest FP,Corporate bonds,4,0,,
+Aviva Pension Pre-retirement Fixed Interest LMP / FPP,Corporate bonds,5,0,,
+Aviva Pension Property AP,Property,4,0,,
+Aviva Pension Property AP / XE,Property,4,0,,
+Aviva Pension Property EP,Property,4,0,,
+Aviva Pension Property FP,Property,4,0,,
+Aviva Pension Property LMP / FPP,Property,4,0,,
+Aviva Pension Property NMP,Property,4,0,,
+Aviva Pension Rainbow Equity Inv I EP,Equities,6,0,,
+Aviva Pension Rainbow Equity Inv II EP,Equities,6,0,,
+Aviva Pension Rainbow Managed Inv I EP,Mixed assets,4,0,,
+Aviva Pension Rainbow Managed Inv II EP,Mixed assets,4,0,,
+Aviva Pension Reserve AP,Mixed assets,2,0,,
+Aviva Pension Reserve AP / XE,Mixed assets,2,0,,
+Aviva Pension Retirement Distribution AP,Mixed assets,4,0,,
+Aviva Pension Retirement Distribution AP / XE,Mixed assets,4,0,,
+Aviva Pension Sarasin IE Multi Asset - Dynamic AP,Mixed assets,4,0,,
+Aviva Pension Sarasin Thematic Global Equity AP,Equities,6,0,,
+Aviva Pension Schroder Diversified Growth EP,Mixed assets,3,0,,
+Aviva Pension Schroder Diversified Growth FP,Mixed assets,3,0.56,,
+Aviva Pension Schroder Diversified Growth IE/XE,Mixed assets,3,0,,
+Aviva Pension Schroder Global Cities Real Estate AP,Equities  Property,6,0,,
+Aviva Pension Schroder Global Cities Real Estate EP / EP S1,Equities  Property,6,0,,
+Aviva Pension Schroder Global Cities Real Estate EP S3,Equities  Property,6,0,,
+Aviva Pension Schroder Global Cities Real Estate IE/XE,Equities  Property,6,0,,
+Aviva Pension Schroder Institutional UK Smaller Companies IE/XE,Equities,7,0,,
+Aviva Pension Schroder Managed Balanced NMP,Mixed assets,4,0,,
+Aviva Pension Schroder Managed EP,Mixed assets,4,0,,
+Aviva Pension Schroder Managed EP S1,Mixed assets,4,0,,
+Aviva Pension Schroder Managed EP S2,Mixed assets,4,0,,
+Aviva Pension Schroder Managed EP S3,Mixed assets,4,0,,
+Aviva Pension Schroder Managed IE/XE,Mixed assets,4,0,,
+Aviva Pension Schroder Sustainable Future Multi Asset FP,Mixed assets  Ethical,4,0.3,,
+Aviva Pension Schroder Sustainable Future Multi Asset XE,Mixed assets  Ethical,4,0,,
+Aviva Pension Schroder Tokyo AP,Equities,6,0,,
+Aviva Pension Schroder Tokyo EP / EP S1,Equities,6,0,,
+Aviva Pension Schroder Tokyo EP S3,Equities,6,0,,
+Aviva Pension Schroder Tokyo FP,Equities,6,0.85,,
+Aviva Pension Schroder Tokyo IE/XE,Equities,6,0,,
+Aviva Pension Schroder UK Smaller Companies EP / EP S1,Equities,7,0,,
+Aviva Pension Schroder UK Smaller Companies EP S3,Equities,7,0,,
+Aviva Pension Schroder US Mid Cap AP,Equities,7,0,,
+Aviva Pension Schroder US Mid Cap EP / EP S1,Equities,7,0,,
+Aviva Pension Schroder US Mid Cap EP S3,Equities,7,0,,
+Aviva Pension Sterling Corporate Bond AP,Corporate bonds,2,0,,
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability AP,Equities,5,0,,
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability EP / EP S1,Equities,5,0,,
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability EP S3,Equities,5,0,,
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability FP,Equities,5,0.79,,
+Aviva Pension Stewart Investors Asia Pacific Leaders Sustainability IE/XE,Equities,5,0,,
+Aviva Pension Sustainable Stewardship Bond AP,Corporate bonds  Global bonds  Ethical,3,0,,
+Aviva Pension Sustainable Stewardship Bond EP,Corporate bonds  Global bonds  Ethical,3,0,,
+Aviva Pension Sustainable Stewardship Bond FP,Corporate bonds  Ethical,3,0.02,,
+Aviva Pension Sustainable Stewardship Bond FPP,Corporate bonds  Ethical,3,0,,
+Aviva Pension Sustainable Stewardship Bond XE,Corporate bonds  Global bonds  Ethical,3,0,,
+Aviva Pension Sustainable Stewardship International Equity AP,Equities  Ethical,5,0,,
+Aviva Pension Sustainable Stewardship International Equity EP,Equities  Ethical  Mixed assets,5,0,,
+Aviva Pension Sustainable Stewardship International Equity FP,Equities  Ethical,5,0.02,,
+Aviva Pension Sustainable Stewardship International Equity FPP,Equities  Ethical,5,0,,
+Aviva Pension Sustainable Stewardship International Equity XE,Equities  Ethical  Mixed assets,5,0,,
+Aviva Pension Sustainable Stewardship Managed AP,Mixed asset  Ethical,4,0,,
+Aviva Pension Sustainable Stewardship Managed EP,Equities  Ethical  Mixed assets,4,0,,
+Aviva Pension Sustainable Stewardship Managed FP,Mixed asset  Ethical,4,0,,
+Aviva Pension Sustainable Stewardship Managed FPP,Mixed asset  Ethical,4,0,,
+Aviva Pension Sustainable Stewardship Managed XE,Equities  Ethical  Mixed assets,4,0,,
+Aviva Pension Sustainable Stewardship UK Equity AP,Equities  Ethical,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity EP,Equities  Ethical  Cash/Money market,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity FP,Equities  Ethical,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity FPP,Equities  Ethical,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity Income AP,Equities  Ethical,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity Income EP,Equities  Ethical  Cash/Money market,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity Income FP,Equities  Ethical,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity Income XE,Equities  Ethical  Cash/Money market,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity NMP,Equities  Ethical,6,0,,
+Aviva Pension Sustainable Stewardship UK Equity XE,Equities  Ethical  Cash/Money market,6,0,,
+Aviva Pension Tokyo NMP,Equities,6,0,,
+Aviva Pension UK Equity AP,Equities,6,0,,
+Aviva Pension UK Equity AP / XE,Equities,6,0,,
+Aviva Pension UK Equity FP,Equities,6,0,,
+Aviva Pension UK Equity LMP / FPP,Equities,6,0,,
+Aviva Pension UK Equity NMP,Equities,6,0,,
+Aviva Pension UK Index Tracking FPP,Equities  Tracker,6,0,,
+Aviva Pension UK Listed Equity Income AP,Equities,6,0,,
+Aviva Pension UK Listed Equity Income FP,Equities,6,0.29,,
+Aviva Pension UK Listed Equity Income XE,Equities,6,0,,
+Aviva Pension UK Smaller Companies FP,Equities,7,0,,
+Aviva Pension UK Tracker AP,Equities  Tracker,5,0,,
+Aviva Pension UK Tracker AP / XE,Equities  Tracker,5,0,,
+Aviva Pension Unit EP,Mixed assets,4,0,,
+Aviva Pension Unity Managed 3 EP,Mixed assets,4,0,,
+Aviva Pension Unity Managed EP,Mixed assets,4,0,,
+Aviva Pension Vanguard FTSE Developed World ex-UK FP,Equities  Tracker,6,0.08,,
+Aviva Pension Vanguard FTSE Developed World ex-UK XE,Equities  Tracker,6,0.08,,
+Aviva Pension Vanguard FTSE UK All Share Index FP,Equities  Tracker,5,0.05,,
+Aviva Pension Vanguard FTSE UK All Share Index XE,Equities  Tracker,5,0.05,,
+Aviva Pension Vanguard Global Corporate Bond Index FP,Corporate bonds  Tracker,3,0.12,,
+Aviva Pension Vanguard Global Corporate Bond Index XE,Corporate bonds  Tracker,3,0.12,,
+Aviva Pension Vanguard US Equity Index FP,Equities  Tracker,6,0.06,,
+Aviva Pension Vanguard US Equity Index XE,Equities  Tracker,6,0.06,,
+Aviva SPS Artemis UK Special Situations,Equities,6,0.87,0.12,0.75
+Aviva SPS Aviva Fixed Income,Corporate bonds  Gilts  Global bonds,4,0.12,0,0.12
+Aviva SPS Aviva Investors Index-Linked Gilt,Gilts,5,0.14,0.04,0.1
+Aviva SPS Aviva Investors Money Market,Cash/Money market,1,0.05,0,0.05
+Aviva SPS Aviva Investors Property,Property,4,0.21,0.01,0.2
+Aviva SPS BlackRock Emerging Markets Index Tracker,Equities  Tracker,7,0.28,0.08,0.2
+Aviva SPS BlackRock European Equity Index Tracker,Equities  Tracker,6,0.12,0,0.12
+Aviva SPS BlackRock Japanese Equity Index Tracker,Equities  Tracker,6,0.12,0,0.12
+Aviva SPS BlackRock Over 5 yrs Index-Linked Gilt Tracker,Gilts  Tracker,5,0.12,0,0.12
+Aviva SPS BlackRock Pacific Rim Equity Index Tracker,Equities  Tracker,7,0.12,0,0.12
+Aviva SPS BlackRock UK Equity Index Tracker,Equities  Tracker,5,0.12,0,0.12
+Aviva SPS BlackRock US Equity Index Tracker,Equities  Tracker,6,0.12,0,0.12
+Aviva SPS Consolidated,Mixed assets,3,0.35,0,0.35
+Aviva SPS Diversified,Mixed assets,4,0.37,0,0.37
+Aviva SPS Emerging Market Equity Active,Equties,7,1,0.23,0.77
+Aviva SPS Global Equity Passive,Equities  Ethical,6,0.1,0.03,0.07
+Aviva SPS Growth,Equities,5,0.19,0,0.19
+Aviva SPS HSBC Islamic Global Equity Index,Equities  Tracker,6,0.3,0,0.3
+Aviva SPS Liontrust Sustainable Future Managed,Mixed assets  Ethical,5,0.37,0.07,0.3
+Aviva SPS Ninety One Emerging Markets Local Currency Debt,Global bonds,4,0.98,0.23,0.75
+Aviva SPS Progressive Global Equity Active,Equities,5,0.6,0.07,0.53
+Aviva SPS Robeco Multi-Factor Credits,Corporate bonds  Global bonds,3,0.27,0.13,0.14
+Group Managed GM Cash Pension AP,Cash/Money market,1,0.06,0.01,0.05
+Group Managed GM European Equity Pension AP,Equities,6,0.45,0.05,0.4
+Group Managed GM Mixed Pension AP,Mixed assets,4,0.36,0.06,0.3
+Group Managed GM North America Equity Pension AP,Equities,6,0.42,0.02,0.4
+Group Managed GM Overseas Equity Pension AP,Equities,5,0.45,0.05,0.4
+Group Managed GM Property Pension AP,Property,4,0.6,0,0.6
+Group Managed GM Sterling Bond Pension AP,Corporate bonds,3,0.27,0.02,0.25
+Group Managed GM Sterling Index-Linked Pension AP,Gilts,5,0.22,0.02,0.2
+Group Managed GM UK Equity Pension AP,Equities,6,0.36,0.01,0.35
+RAC (2003) Pension Scheme Artemis UK Special Situations,Equities,6,0.87,0.12,0.75
+RAC (2003) Pension Scheme Aviva Diversified Growth Portfolio,Mixed assets,4,0.27,0.07,0.2
+RAC (2003) Pension Scheme Aviva Fixed Income,Corporate bonds  Gilts  Global bonds,4,0.12,0,0.12
+RAC (2003) Pension Scheme Aviva Global Equity Passive,Equities  Ethical,6,0.14,0.01,0.13
+RAC (2003) Pension Scheme Aviva Investors Money Market,Cash/Money market,1,0.05,0,0.05
+RAC (2003) Pension Scheme Aviva Investors Property,Property,4,0.21,0.01,0.2
+RAC (2003) Pension Scheme Blackrock Over 5 Yrs Index-Linked Gilt Tracker,Gilts  Tracker,5,0.12,0,0.12
+RAC (2003) Pension Scheme Blackrock UK Equity Index Tracker,Equities  Tracker,5,0.12,0,0.12
+RAC (2003) Pension Scheme Emerging Market Equity Active,Equities,7,1,0.23,0.77
+RAC (2003) Pension Scheme Global Equity Active,Equities,5,0.56,0.03,0.53
+RAC (2003) Pension Scheme HSBC Islamic Global Equity Index,Equities  Tracker,6,0.3,0,0.3
+RAC (2003) Pension Scheme Real Assets,Property,4,0.77,0.1,0.67
+RAC (2003) Pension Scheme Robeco Multi-Factor Credits,Corporate bonds  Global bonds,3,0.27,0.13,0.14
+RAC (2003) Pension Scheme Sustainable Bond,Mixed assets  Ethical,3,0.29,0.07,0.22
